@@ -1,0 +1,2950 @@
+{
+  "Ak": {
+    "key": "Ak",
+    "title": "Akşam Evrâdı",
+    "blocks": [
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Bismillâhirrahmânirrahîm",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Akşam Evrâdı RATİBÜ’Ş ŞEHR - İMÂM ABDULLAH BİN ALEVÎ EL-HADDÂD (AKŞAM EVRADI)",
+        "p": 1
+      },
+      {
+        "y": 78.37873840332031,
+        "x0": 39.43360137939453,
+        "x1": 549.7592163085938,
+        "role": "note",
+        "text": "FATİHA Sûresi okunur. AYET-EL KÜRSÎ okunur. Âmene’r Rasûlu okunur.",
+        "p": 1
+      },
+      {
+        "role": "cap",
+        "text": "Fâtiha Sûresi",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ ﴿١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ اَلرَّحْمٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "p": 1
+      },
+      {
+        "role": "cap",
+        "text": "Âyetü’l-Kürsî",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُ لَا اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمٰوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ اِلَّا بِاِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ اِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمٰوَاتِ وَالْأَرْضَ وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ ﴿٢٥٥﴾",
+        "p": 1
+      },
+      {
+        "role": "cap",
+        "text": "Âmene’r-Resûlü",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ اِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللّٰهِ وَمَلٰئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ وَقَالُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَاِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَا اِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا اِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Lâ ilâhe illallâhu vahdehû lâ şerîke leh, lehü'l mülkü ve lehü'l hamdü, yuhyî ve yumîtu ve hüve ala külli şey'in Kadîr. (selâsen)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’tan başka ilah yoktur, o tektir, ortağı yoktur. Mülk O’nundur, hamd O’nadır. O Diriltir ve O öldürür, O her şeye Kadirdir. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَالْحَمْدُ للهِ وَلَآ إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Sübhânallâhi ve'l hamdülillâhi ve lâ İlâhe İllallâhu vallâhu ekber.(Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah her türlü noksanlıktan beridir, hamd O'na mahsustur, O'ndan başka ilâh yoktur. Allah en büyüktür. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Sübhânallâhi ve bi hamdihî, sübhânallâhi'l azîm. (selâsen)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah'ı her türlü noksanlıktan hamd ile tenzih ederim, O her türlü noksanlıktan beri olan Allah Azîm'dir. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "رَبَّنَا اغْفِرْ لَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Rabbenağfir lenâ ve tüb aleynâ inneke ente't-tevvâburrahîm. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey rabbimiz bize mağfiret et ve tevbemizi kabul eyle, sen tevbeleri kabul eden ve merhamet sahibisin. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ صَلِّ عَلَيْهِ وَسَلِّمْ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Allâhumme salli alâ Muhammed, Allâhumme salli aleyhi ve sellim. (selâsen)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, Efendimiz Muhammed’e rahmet et, Ey Allah'ım ona rahmet et ve onu selâmete erdir. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Eûzu bi kelimâtillâhi't-tâmmâti min şerri ma halak. (selâsen)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Yarattıklarının şerrinden, Allahu Teâla'nın tam ve eksiksiz kelamı (yüce kitâbı) ile O'na sığınırım. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhillezi lâ yedurru measmihî şey'un fi'l ardı ve lâ fi's semâi ve hüve's semîu'l alîm. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: İsmi ile, yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın İsmi ile ... O işiten ve bilendir. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "رَضِينَا بِاللهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا وَرَسُولًا (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Radînâ billâhi rabben ve bi'l İslâmi dînen ve bi Muhammedin nebiyyen ve rasulâ. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Rab olarak Allah'tan, din olarak İslam'dan ve nebî olarak Muhammed'den râzı olduk. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ وَالْحَمْدُ للهِ، وَالْخَيْرُ وَالشَّرُّ بِمَشِيئَةِ اللهِ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhi ve'l hamdülillâhi ve'l hayru ve'ş şerru bi meşîetillâh. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah'ın adıyla ve hamd Allah içindir. Hayır ve şer, ancak Allah'ın dilemesiyledir. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "آمَنَّا بِاللهِ وَالْيَوْمِ الْآخِرِ، تُبْنَا إِلَى اللهِ بَاطِنًا وَظَاهِرًا (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Amennâ billâhi ve'l yevmil âhir, tübna ilallâhi batınen ve zâhira. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah'a ve âhiret gününe imân ettik. Bâtın ve zâhir günahlarımız için Allah'a tevbe ettik. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "يَا رَبَّنَا وَاعْفُ عَنَّا وَامْحُ الَّذِي كَانَ مِنَّا (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ Rabbenâ va'fü annâ, vemhullezî kâne minnâ. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Rabbimiz, bizi affet, kusurlarımızı yok say. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، أَمِتْنَا عَلَى دِينِ الْإِسْلَامِ (سَبْعًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ ze'l celâli ve'l ikrâm, emitna alâ dîni'l İslâm. (Seb'a)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Ey kerem ve celâl sahibi olan Allah'ım, canımızı İslâm dini üzerineyken al. (7 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "يَا قَوِيُّ يَا مَتِينُ، اِكْفِ شَرَّ الظَّالِمِينَ (ثَلَآثًا)",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ Kaviyyu yâ Metînu ikfî şerra'z zâlimin. (Salâse)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Ey kuvvet sahibi ve metin olan Allah'ım, zalimlerin şerlerine karşı bize kâfi gel. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Akşam Evrâdı",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "أَصْلَحَ اللهُ أُمُورَ الْمُسْلِمِينَ، صَرَفَ اللهُ شَرَّ الْمُؤْذِينَ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Eslehallâhu umura'l muslimîn sarafallâhu şerra'l mü'zîn. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Müslümanların hallerini düzelt ve ezâ verenlerin şerrini gider. (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "يَا عَلِيُّ يَا كَبِيرُ، يَا عَلِيمُ يَا قَدِيرُ، يَا سَمِيعُ يَا بَصِيرُ، يَا لَطِيفُ يَا خَبِيرُ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ Aliyyu yâ Kebîru, yâ Alîmu yâ Kadîru, yâ Semîu yâ Basîru, yâ Latif yâ Habîr. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ey yüce ve büyük olan, Ey her şeyi bilen ve güç yetiren, Ey işiten ve gören ve Ey lütûf sahibi ve haberdâr olan Allah'ım! (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "يَا فَارِجَ الْهَمِّ، يَا كَاشِفَ الْغَمِّ، يَا مَنْ لِعَبْدِهِ يَغْفِرُ وَيَرْحَمُ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ fârice'l hem, yâ kâşife'l ğam, yâ men li abdihi yağfiru ve yerham. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey üzüntülerden kurtaran, Ey gam ve kederi uzaklaştıran, Ey kuluna mağfiret eden ve merhametli olan Allah'ım! (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "أَسْتَغْفِرُ اللهَ رَبَّ الْبَرَايَا، أَسْتَغْفِرُ اللهَ مِنَ الْخَطَايَا (أَرْبَعًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Estağfirullâhe rabbe'l berâyâ, estağfirullahe mine'l hatâyâ. (Erbea)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Bütün yaratıkların rabbine istiğfar ederim ve hatalarımdan mağfiret dilerim. (4 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ (خَمْسِينَ مَرَّةً)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "La İlahe İllallah (Hamsîne)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Allah’tan başka ilah yoktur. (50 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَشَرَّفَ وَكَرَّمَ وَمَجَّدَ وَعَظَّمَ، وَرَضِيَ عَنْ أَهْلِ بَيْتِهِ الْمُطَهَّرِينَ وَأَصْحَابِهِ",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "الْمُهْتَدِينَ وَالتَّابِعِينَ لَهُمْ بِإِحْسَانٍ إِلَى يَوْمِ الدِّينِ.",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedu'r rasûlullâhi sallallâhu aleyhi ve selleme ve şerrefe ve kerreme ve meccede ve azzama ve radıye an ehli beytihi'l mutahherîn ve ashabihi'l mühtedîne ve't tâbiîne lehum bi ihsanin ilâ yevmi'd din. (Merrah)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "(Muhammed Allah’ın resûlüdür. Allah O'na salât ve selâm eylesin. O'nu şereflendirsin, keremini artırsın ve O'nu yüceltsin. O'nun tertemiz ehl-i beytinden ve hidayete ermiş ashabından ve kıyâmet gününe kadar ashabına güzel bir şekilde uyanlardan razı olsun)",
+        "p": 2
+      },
+      {
+        "y": 407.2876892089844,
+        "x0": 52.165260314941406,
+        "x1": 543.6304931640625,
+        "role": "note",
+        "text": "İHLÂS Sûresi okunur (3 defa) FELAK Sûresi okunur NAS Sûresi okunur FATİHA Sûresi okunur",
+        "p": 2
+      },
+      {
+        "role": "cap",
+        "text": "İhlâs Sûresi",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ قُلْ هُوَ اللّٰهُ أَحَدٌ ﴿١﴾ اَللّٰهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+        "p": 2
+      },
+      {
+        "role": "cap",
+        "text": "Felâk Sûresi",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ ﴿٣﴾ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾",
+        "p": 2
+      },
+      {
+        "role": "cap",
+        "text": "Nâs Sûresi",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ اِلٰهِ النَّاسِ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+        "p": 2
+      },
+      {
+        "role": "cap",
+        "text": "Fâtiha Sûresi",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ ﴿١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ اَلرَّحْمٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+        "p": 2
+      },
+      {
+        "role": "head",
+        "text": "BAĞIŞLAMA DUASI:",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Okumuş olduğumuz evrad-ı şeriften ve üç İhlas bir Fatiha’nın sevabını;",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Başta sevgili Peygamber Efendimiz’e (Aleyhissalatu ve’s selâm) ve diğer peygamberlerin (aleyhimu-s selam) ruhlarına,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ashâb-ı kiram, ehl-i beyt, eimme-i müctehîdîn,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Hususan bu duaların sahibi olan ve Ba’levi yolundan gelen Seyyidlerin ruhlarına;",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ömer bin Abdurrahmân Attâs,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Abdullah el Haddâd,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed bin Hasan Attâs",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed bin İdris,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Abdulkadir Geylanî,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed er-Rifâi,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed el-Bedevi,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid İbrahim-i Dussûki,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Şeyh Hasen Ali Şâzeli",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Şâh-ı Muhammed Bahaddin Nakşibendî hazretlerinin ruhlarına,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Alevî bin Abbas el Mâliki ve,",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Şeyhimiz Sertacımız Seyyid Muhammed bin Alevî el Mâliki’nin",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "ruhuna ve",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 2
+      },
+      {
+        "role": "note",
+        "text": "Şeyhimiz Sertacımız Seyyid Ahmed bin Muhammed el Mâliki’nin",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "ruhaniyetine hediye eyledik, kabul eyle Yâ Rabbi AMİN.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "اَللَّهُمَّ اَمَدَّنَا بِمَدَدِهِمْ (ثَلَآثًا) آمِنْ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Allâhumme emednâ bi mededihim. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım, onların mededleriyle bizi mededlendir (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "اَللَّهُمَّ اِنَّا نَسْئَلُكَ رِضَاكَ وَالْجَنَّةَ وَنَعُوذُ بِكَ مِنْ سَخَطِكَ",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "وَالنَّارِ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Allâhumme innâ nes’eluke rıdâke ve’l cennete ve neûzu bike min sehatıke ve’n nâr. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım, biz senden rızânı ve cennetini istiyor, senin gazâbından ve cehenneminden sana sığınıyoruz. (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "يَا عَالِمَ السِّرِّ مِنَّا لَا تَهْتِكَ السِّتْرَ عَنَّا وَعَافِنَا وَاعْفُ عَنَّا وَكُنْ",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "لَنَا حَيْثُ كُنَّا (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Yâ âlimesırrı minna lâ tehtikessitre anna ve âfinâ va’fu annâ ve kün lenâ haysü künnâ. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ey bizim sırlarımızı bilen, gizlediklerimizi açığa vurma. Bize âfiyet ver ve bizi affet. Nerede olursak olalım bizimle ol. (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "يَا اَللهُ بِهَا، يَا اَللهُ بِهَا، يَا اَللهُ بِحُسْنِ الْخَاتِمَةِ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Yâ Allâhu biha, Yâ Allâhu bihâ, Ya Allâhu bi husnil hâtimeh. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım, Ey Allah’ım, Ey Allah’ım, senden güzel bir son diliyorum. (3 defa)",
+        "p": 2
+      }
+    ],
+    "nimg": 0
+  },
+  "Kalb": {
+    "key": "Kalb",
+    "title": "Kalbî Kemâlât Virdi",
+    "blocks": [
+      {
+        "role": "turkish",
+        "text": "Kalbî Kemâlât Virdi",
+        "p": 1
+      },
+      {
+        "y": 45.57769775390625,
+        "x0": 141.85183715820312,
+        "x1": 453.50732421875,
+        "role": "head",
+        "text": "KALBÎ KEMÂLÂTTA GÜNLÜK TESBİHAT VİRDİ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Mürid sessiz ve sakin bir ortamda kıbleye karşı oturarak önce 3 İhlas, 1 Felak, 1 Nas ve 1 Fatiha Suresi okur. Ya Rabbi! Okuduğum bu surelerden hâsıl olan sevabı; Rasûlullah ﷺEfendimizin ruhuna, Seyyid Abdullah bin Alevi el'Haddad hz ruhuna, Seyyid Şeyh Hasan eş'Şazeli hz ruhuna, Seyyid Muhammed bin Alevi el'Maliki hz ruhuna, Seyyid Ahmed bin Muhammed el'Maliki hz ruhaniyetine, Üstadım Huzeyfe bin Yunus el'Buhari'nin ruhaniyetine hediye eyledim. Bu manevi yolda onlardan istifade etmeyi nasib eyle. Mürid her gün 15 dakika Râbıta-i Mevt yapar. Sonra elinde tesbihi okumuş olduğu zikrin mânâsını düşünerek ALLAH ' ﷻnun huzurundaki en zayıf biçare muhtaç kul olduğunu hissederek zikrine başlar...",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ وَأَتُوبُ إِلَيْهِ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "ESTEĞFİRULLAH EL AZÎM VE ETÛBU İLEYH",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "SUBHÂNALLÂHİ VE Bİ-HAMDİHÎ SUBHÂNALLÂHİL-AZÎM",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "SUBHÂNALLÂHİ VELHAMDU LİLLÂHİ VE LÂ İLÂHE İLLALLÂHU VALLÂHU EKBER",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "LÂ HAVLE VE LÂ KUVVETE İLLÂ BİLLÂHİL ‘ALİYYİL ‘AZÎM",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "LÂ İLÂHE İLLALLÂHU VAHDEHÛ LÂ ŞERÎKE LEH, LEHUL MULKU VE LEHUL HAMDU VE HUVE ALÂ KULLİ ŞEY'İN KADÎR",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "لَا إِلَهَ إِلَّا اللهُ مُحَمَّدٌ رَسُولُ اللهِ فِي كُلِّ لَمْحَةٍ وَنَفَسٍ عَدَدَ مَا وَسِعَهُ عِلْمُ اللهِ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "LÂ İLÂHE İLLALLÂH MUHAMMED RASÛLULLÂH FÎ KULLİ LEMHATİN VE NEFESİN ‘ADEDE MÂ VESİA'HÛ ‘ILMULLÂH",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "HASBUNALLÂHU VE Nİ'MEL VEKÎL",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "100 defa",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "اَللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْفَاتِحِ لِمَا أُغْلِقَ وَالْخَاتِمِ لِمَا سَبَقَ نَاصِرِ الْحَقِّ بِالْحَقِّ وَالْهَادِي إِلَى صِرَاطِكَ الْمُسْتَقِيمِ وَعَلَى آلِهِ وَصَحْبِهِ حَقَّ قَدْرِهِ وَمِقْدَارِهِ الْعَظِيمِ",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "ALLÂHUMME SALLİ ‘ALÂ SEYYİDİNÂ MUHAMMEDİNİL FÂTİHİ LİMÂ UĞLİKA, VELHÂTİMİ LİMÂ SEBEKA, NÂSIRIL HAKKI BİLHAKK, VEL HÂDÎ İLÂ SIRÂTIKEL MUSTEKÎM, VE ALÂ ÂLİHÎ VE SAHBİHÎ HAKKA KADRİHÎ VE MİKDÂRİHİL AZÎM",
+        "p": 1
+      },
+      {
+        "role": "note",
+        "text": "Her gün Sabah ve Akşam namazından sonra evrad kitabından verilen bölümler okunur.",
+        "p": 1
+      },
+      {
+        "role": "cap",
+        "text": "Sabah Okunacak Evrad:",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "İstiğfâr'ı Kebîr, Vird'ül Latif, Vird'ül İmam Attas",
+        "p": 1
+      },
+      {
+        "role": "cap",
+        "text": "Akşam Okunacak Evrad:",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Râtib'üş Şehr",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "3 İhlas, 1 Felak, 1 Nas ve 1 Fatiha Suresi okunur ve Sâdat-ı Kirâm’ın ruhlarına bağışlanır.",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Başta sevgili Peygamber Efendimiz’e ﷺve diğer peygamberlerin (aleyhimu’s-selam) ruhlarına, Ashâb-ı Kiram, Ehl-i Beyt, Eimme-i Müctehîdîn, Seyyid Ömer bin Abdurrahmân Attâs, Seyyid Abdullah el Haddâd, Seyyid Ahmed bin Hasan Attâs, Seyyid Ahmed bin İdris, Seyyid Abdulkadir Geylanî, Seyyid Ahmed er-Rifâi, Seyyid Ahmed el-Bedevi, Seyyid İbrahim-i Dussûki, Şeyh Hasen Ali Şâzeli, Şâh-ı Muhammed Bahaeddin Nakşibendî hz ruhlarına, Seyyid Alevî bin Abbas el Mâliki ve Şeyhimiz Sertacımız Seyyid Muhammed bin Alevî el Mâliki’nin ruhuna ve Şeyhimiz Sertacımız Seyyid Ahmed bin Muhammed el Mâliki’nin ruhaniyetine hediye eyledik, kabul eyle Yâ Rabbi! AMİN.",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Rabbim Muvaffak Eylesin",
+        "p": 1
+      }
+    ],
+    "nimg": 0
+  },
+  "Sabah": {
+    "key": "Sabah",
+    "title": "Sabah Evrâdı",
+    "blocks": [
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "بسم الله الرحمان الرحيم",
+        "p": 1
+      },
+      {
+        "y": 99.61766052246094,
+        "x0": 197.4404754638672,
+        "x1": 391.84393310546875,
+        "role": "head",
+        "text": "BİSMİLLÂHİRRAHMÂNİRRAHÎM",
+        "p": 1
+      },
+      {
+        "role": "title_ar",
+        "text": "اَلْإِسْتِغْفَارُ الْكَبِيرُ",
+        "p": 1
+      },
+      {
+        "role": "title_ar",
+        "text": "لِلْإِمَامِ أَحْمَدْ بِنْ إِدْرِيسِ",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ غَفَّارَ الذُّنُوبِ ذَا الْجَلَالِ وَالْإِكْرَامِ، وَأَتُوبُ إِلَيْهِ مِنْ جَمِيعِ الْمَعَاصِي كُلِّهَا وَالذُّنُوبِ وَالْآثَامِ وَمِنْ كُلِّ ذَنْبٍ أَذْنَبْتُهُ عَمْدًا وَخَطَأً ظَاهِرًا وَبَاطِنًا قَوْلًا وَفِعْلًا فِي جَمِيعِ حَرَكَاتِي وَسَكَنَاتِي وَخَطَرَاتِي وَأَنْفَاسِي كُلِّهَا دَائِمًا أَبَدًا سَرْمَدًا مِنَ الذَّنْبِ الَّذِي أَعْلَمُ وَمِنَ الذَّنْبِ الَّذِى لَا أَعْلَمُ، عَدَدَ مَا أَحَاطَ بِهِ الْعِلْمُ وَأَحْصَاهُ الْكِتَابُ وَخَطَّهُ الْقَلَمُ وَعَدَدَ مَا أَوْجَدَتْهُ الْقُدْرَةُ وَخَصَّصَتْهُ الْإِرَادَةُ وَمِدَادَ كَلِمَاتِ اللهِ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِ رَبِّنَا وَجَمَالِهِ وَكَمَالِهِ وَكَمَا يُحِبُّ رَبُّنَا وَيَرْضٰى.",
+        "p": 1
+      },
+      {
+        "y": 436.14276123046875,
+        "x0": 131.176513671875,
+        "x1": 192.01806640625,
+        "role": "cap",
+        "text": "İstiğfâr-ı Kebîr",
+        "p": 1
+      },
+      {
+        "y": 450.7298278808594,
+        "x0": 113.98860931396484,
+        "x1": 211.59327697753906,
+        "role": "cap",
+        "text": "İmam Ahmed bin İdrîs",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Esteğfirullâh el-‘azîm, ellezî lâ ilâhe illâ huve l-hayyu l-kayyûm, ğaffâra z-zunûbi ze l-celâli ve l-ikrâm, ve etûbu ileyhi min cemî’ıl me’âŝî kullihâ ve z-zunûbi ve l-âsâm, ve min kulli zembin eznebtuhû ‘amden ve ĥataen, żâhiran ve bâtınen, kavlen ve fi’lâ, fî cemî’ı ĥarekâtî ve sekenâtî ve ĥatarâtî ve enfâsî, kullihâ dâimen ebeden sermeden min ez-zembillezî e’lem, ve min ez-zembillezî lâ e’lem, ‘adede mâ ehâta bihi l-‘ılmu ve ehsâhu l-kitâbu ve ĥattahu l- kalem, ve ‘adede mâ evcedethu l-kudratu ve ĥaŝŝasathu l-irâdeh, ve midâde kelimâtillâhi kemâ yembeğî li-celâli vechi rabbinâ ve cemâlihî ve kemâlihî ve kemâ yuhibbu rabbunâ ve yerdâ.",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Celâl ve ikram sahibi, günahları affeden, Hayy ve Kayyûm ve Ondan başka ilah bulunmayan azamet sahibi Allah’a istiğfar ediyor, günahlarımın affını O’ndan diliyorum. Her türlü küçük-büyük, bilerek veya bilmeyerek işlediğim bütün günahlardan dolayı tevbe ediyorum; gizliden ve açıktan, söz olarak veya bizzat işlediğim günahlardan, her türlü davranışımdan, aklıma gelen ve gelmeyen bütün hatalardan ebediyen pişman oldum. Allah’ın ilminin kapsadığı, kalemin yazdığı, Allah’ın kelimeleri adedince tevbe ediyorum. Rabbimin rızası doğrultusunda yaşamaya azmediyorum. Allah’ım! Yardımını esirgeme.",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 2
+      },
+      {
+        "y": 54.75173568725586,
+        "x0": 260.87744140625,
+        "x1": 328.0985107421875,
+        "role": "cap",
+        "text": "Virdü l-Latîf",
+        "p": 2
+      },
+      {
+        "y": 73.18350219726562,
+        "x0": 195.97042846679688,
+        "x1": 392.8385009765625,
+        "role": "cap",
+        "text": "İmam Abdullâh bin Alevî el-Haddâd",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "سُورَةُ الْإِخْلَاصِ (ثَلَآثًا) وَالْمُعَوَّذَتَانِ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "y": 143.94430541992188,
+        "x0": 101.54998016357422,
+        "x1": 487.6982116699219,
+        "role": "cap",
+        "text": "İhlas Suresi (3 Defa), Felak Suresi. (3 Defa), Nas Suresi. (3 Defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "﴿رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ﴾ (ثَلَآثًا)",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Rabbi e’ûzu bike min hemezâti ş-şeyâtîn, ve e’ûzu bike rabbi en yahdurûn. (Salâse)",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Rabbim, şeytanların vesveselerinden, onların yanımda hazır bulunmalarından sana sığınırım! (3 defa)",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "﴿أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ. فَتَعَالَى اللهُ الْمَلِكُ الْحَقُّ لَآ إِلٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ. وَمَنْ يَدْعُ مَعَ اللهِ إِلٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِنْدَ رَبِّهِ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ. وَقُلْ رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ﴾",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Efehasibtum ennemâ ĥaleknâkum abesen ve ennekum ileynâ lâ turce’ûn, Feteâlellâhu l-meliku l-hakku lâ ilâhe illâ huve rabbu l-‘arşi l-kerîm, Ve men yed’u me’allâhi ilâhen âĥara lâ burhâne lehû bihî feinnemâ hısâbuhû ‘ınde rabbih, innehû lâ yuflihu l-kâfirûn, Ve kul r-rabbiğfir verham ve ente ĥayru r-râhimîn.",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Sizi gereksiz yere yarattığımızı ve bize dönmeyeceğinizi mi sandınız? Mülk sahibi ve Hakk olan Allah’ın şanı yücedir. O'ndan başka ilâh yoktur. O, kerim Arş'ın sahibidir. Her kim Allah elinde bir delili olmadan Allah ile beraber başka bir ilaha dua ederse onun hesabı rabbinin yanındadır. O, kafirleri kurtuluşa erdirmez. ”De ki Rabbim, bağışla ve merhamet et, şüphesiz sen merhamet edenlerin en hayırlısısın.”",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "﴿فَسُبْحَانَ اللهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ. وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ. يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِ الْأَرْضَ بَعْدَ مَوْتِهَا وَكَذَالِكَ تُخْرَجُونَ﴾",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Fesubhânallâhi hîne tumsûne ve hîne tusbihûn. Ve lehul hamdu fi s-semâvâti ve l-ardi ve ‘aşiyyen ve hîne tużhirûn.Yuĥricu l-hayye mine l-meyyiti ve yuĥricu l-meyyite minel hayyi ve yuhyil erda ba’de mevtihâ ve kezâlike tuĥracûn",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Akşamlarken ve sabahlarken Allah’ı tesbih et ki, göklerde ve yerde hamd O’na mahsustur. O, ölüden diriyi, diriden de ölüyü çıkarır, yeryüzünü ölümden sonra O canlandırır. İşte siz de böyle diriltileceksiniz.",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 3
+      },
+      {
+        "role": "arabic",
+        "text": "أَعُوذُ بِاللهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ (ثَلَآثًا)",
+        "p": 3
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: E’ûzu billâhissemî’ıl ‘alîmi mine ş-şeytânirracîm. (Salâse)",
+        "p": 3
+      },
+      {
+        "role": "turkish",
+        "text": "Kovulmuş şeytanın şerrinden, İşiten ve Bilen Allah’a sığınırım. (3 defa)",
+        "p": 3
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ. ﴿لَوْ أَنْزَلْنَا هٰذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللهِ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ. هُوَ اللهُ الَّذِي لَآ إِلٰهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَانُ الرَّحِيمُ، هُوَ اللهُ الَّذِي لَآ إِلٰهَ إِلَّا هُوَ اَلْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللهِ عَمَّا يُشْرِكُونَ. هُوَ اللهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ﴾",
+        "p": 3
+      },
+      {
+        "y": 355.1785888671875,
+        "x0": 44.33230972290039,
+        "x1": 178.3374786376953,
+        "role": "head",
+        "text": "BİSMİLLAHİRRAHMÂNİRRAHÎM.",
+        "p": 3
+      },
+      {
+        "y": 357.2801208496094,
+        "x0": 289.14703369140625,
+        "x1": 473.52032470703125,
+        "role": "head",
+        "text": "RAHMAN VE RAHİM OLAN ALLAH'IN ADI İLE",
+        "p": 3
+      },
+      {
+        "role": "translit",
+        "text": "Lev enzelnâ hâzel kur’âne ‘alâ cebelin leraeytehû ĥâşi’an muteŝaddi’an min ĥaşyetillâh, ve tilkel emsâlu nadribuhâ linnâsi le’allehum yetefekkerûn. Huvallâhullezî lâ ilâhe illâ huve ‘âlimul ğaybi ve ş- şehâdeti huve r-rahmânu r-râhîm. Huvallâhullezî lâ ilâhe illâ huve l-meliku l-kuddûsu s-selâmu l-mu’minu l-muheyminu l-‘azîzu l-cebbâru l-mutekkebir, subhânallâhi ‘ammâ yuşrikûn. Huvallâhu l-ĥâliku l- bâriu l-muŝavviru lehu l-esmâu l-husnâ, yusebbihu lehû mâ fi s-semâvâti ve l-erd, ve huvel ‘azîzu l-hakîm.",
+        "p": 3
+      },
+      {
+        "role": "turkish",
+        "text": "Şayet Biz bu Kur'ân'ı bir dağa indirseydik, Allah'ın korkusundan onu baş eğmiş, parça parça olmuş görürdün. Bu misalleri düşünsünler diye insanlara veriyoruz. O, öyle Allah'tır ki, O'ndan başka İlah yoktur. Görülmeyeni ve görüleni bilendir. O, esirgeyendir, bağışlayandır. O, öyle Allah'tır ki, kendisinden başka hiçbir ilah yoktur. O, mülkün sahibidir, eksiklikten münezzehtir, selamet verendir, emniyete kavuşturandır, gözetip koruyandır, üstündür, istediğini zorla yaptıran, büyüklükte eşi olmayandır. Allah, müşriklerin ortak koştukları şeylerden münezzehtir. O, yaratan, var eden, şekil veren Allah'tır. En güzel isimler O'nundur. Göklerde ve yerde olanlar O'nun şanını yüceltmektedirler. O, galiptir, hikmet sahibidir.",
+        "p": 3
+      },
+      {
+        "role": "arabic",
+        "text": "سَلَامٌ عَلَى نُوحٍ فِي الْعَالَمِينَ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+        "p": 3
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Selâmun ‘alâ nûhin fi l-‘âlemîn. İnnâ kezâlike neczi l-muhsinîn. İnnehû min ‘ıbâdinâ l-mu’minîn.",
+        "p": 3
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Âlemler içinde Nuh (A.S)’a selâm olsun. Muhakkak ki Biz, muhsinleri işte böyle mükâfatlandırırız. Muhakkak ki o, Bizim mü’min (Allah’a ulaşmayı dileyip bütün makamları kazanan) kullarımızdandır.",
+        "p": 3
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ (ثَلَآثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: E’ûzu bi kelimâtillâhittâmmâti min şerri mâ ĥalek. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Yarattıklarının şerrinden, Allahu Teâla'nın tam ve eksiksiz kelamı (yüce kitâbı) ile O'na sığınırım. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ (ثَلَآثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhillezî lâ yedurru me’asmihî şey’un fi l-erdi ve lâ fi s-semâi ve huve s-semî’ul ‘alîm. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: İsmi ile, yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın İsmi ile ... O işiten ve bilendir. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "للّٰهُمَّ إِنِّي اَصْبَحْتُ مِنْكَ فِي نِعْمَةٍ وَعَافِيَةٍ وَسِتْرٍ فَأَتْمِمْ نِعْمَتَكَ عَلَيَّ وَعَافِيَتَكَ وَسِتْرَكَ فِي الدُّنْيَا وَالْآخِرَةِ (ثَلَآثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî esbahtu minke fî ni’metin ve ‘âfiyetin ve sitrin fe etmim ni’mete ‘aleyye ve ‘âfiyeteke ve sitrake fi d-dunyâ ve l-âĥirah. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, senden nimete, afiyete ve (hatalarımı gizleyen) örtüye kavuştum. Üzerimde olan nimetini, afiyetini ve örtünü dünya ve ahirette tamamına erdirmeni diliyorum. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي اَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلَاءِكَتَكَ وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللهُ لَآ إِلٰهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ (أَرْبَعًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî esbahtu uşhiduke ve uşhidu hamelete ‘arşike ve melâiketeke ve cemî’a ĥalkik. Enneke entellâhu lâ ilâhe illâ ente vahdeke lâ şerîke leke ve enne Muhammeden ‘abduke ve rasûluk. (Erbea)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, ben sabahladım. Sen ve arşını götüren meleklerle, diğer bütün melekler, bütün yarattıklarına şehadet ettim. Şüphesiz ki sen, o Allah’sın ki senden başka ilah yoktur, Birsin ve benzerin yoktur. Muhammed de (Ŝallallâhu ‘aleyhi ve sellem) senin kulun ve Resulündür. (4 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "اَلْحَمْدُ للهِ رَبِّ الْعَالَمِينَ حَمْدًا يُوَافِي نِعَمَهُ وَيُكَافِيءُ مَزِيدَهُ (ثَلَآثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Elhamdullillâhi Rabbil ‘âlemîne hamden yuvâfî ni’amehû ve yukâfiu mezîdeh. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Alemlerin rabbi olan Allah’a nimetlerini karşılayacak ve artıracak kadar hamd olsun. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "آمَنْتُ بِاللهِ الْعَظِيمِ، وَكَفَرْتُ بِالْجِبْتِ وَالطَّاغُوتِ، وَاسْتَمْسَكْتُ بِالْعُرْوَةِ",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "الْوُثْقَى لَا انْفِصَامَ لَهَا، وَاللَّهُ سَمِيعٌ عَلِيمٌ (ثَلَاثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Âmentu billâhi l-‘azîm, ve kefertu bi l-cibti ve t-tâğût, vestemsektu bi l-‘urveti l-vuskâ lenfisâme lehâ vallâhu semî’un ‘âlîm. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ben yüce Allah’a iman ettim ve bütün putları ve tağutları inkar ettim. Allah’ın kopmak bilmeyen kulpuna (dinine) sımsıkı sarıldım. Allah işiten ve en iyi bilendir. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "arabic",
+        "text": "رَضِيتُ بِاللهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا وَرَسُولًا (ثَلَآثًا)",
+        "p": 4
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Radîtu billâhi rabben ve bi l-islâmi dînen ve bi-Muhammedin ŝallAllahu ‘aleyhi ve selleme nebiyyen ve rasûlâ. (Salâse)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Rab olarak Allah’tan, din olarak İslam’dan ve Nebî ve rasul olarak Muhammed (Ŝallallâhu ‘aleyhi ve sellem)’den râzı olduk. (3 defa)",
+        "p": 4
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "حَسْبِىَ اللهُ لَآ إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ (سبعًا)",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Hasbiyallâhu lâ ilâhe illâ huve aleyhi tevekkeltu ve huve Rabbul ‘arşil ‘azîm. (Seb'a)",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Kendinden başka ilah olmayan Allah’ım bana yeter, ben ona tevekkül ettim. O yüce arşın Rabbi’dir.",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ (عشرًا)",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme salli ‘alâ seyyidinâ Muhammedin ve ‘alâ âlihî ve ŝahbihî ve sellim. (Aşra marrât)",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım salat ve selam Efendimiz Muhammed(S.A.V), onun ehli beytine ve ashabının üzerine olsun.",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ مِنْ فُجَاءَةِ الْخَيْرِ وَأَعُوذُ بِكَ مِنْ فُجَاءَةِ الشَّرِّ،",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî es’eluke min fucâeti l-ĥayri ve e’ûzu bike min fucâeti ş-şerr.",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, Ansızın gelen hayrı senden diler ve ansızın gelen şerden sana sığınırım.",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme ente Rabbî lâ ilâhe illâ ente ĥalektenî, ve ene ‘abduke ve ene ‘alâ ‘ahdike ve ve’adike mesteta’tu ve e’ûzu bike min şerri ma ŝane’tu, ebûu leke bi-ni’metike ‘aleyye ve ebûu bi zenbî, feğfirlî fe innehû lâ yağfiru z-zunûbe illâ ent.",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, sen benim Rabbimsin, senden başka ilah yoktur, beni sen yarattın, ben senin kulunum ve sana verdiğim ahdimde ve vaadimde gücüm yettiği kadar duruyorum. Yapmış olduklarımın şerrinden sana sığınırım. Nimetinle sana dönüyorum, günahımla sana yöneliyorum. Bana mağfiret et, günahları ancak sen affedersin.",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ أَنْتَ رَبِّي لَآ إِلٰهَ إِلَّا أَنْتَ عَلَيْكَ تَوَكَّلْتُ وَأَنْتَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme ente Rabbî lâ ilâhe illâ ente, ‘aleyke tevekkeltu ve ente Rabbu l-‘arşi l-‘ażîm.",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım, sen benim rabbimsin, senden başka hiçbir ilah yoktur, ancak sen varsın, tevekkülüm sanadır. Sen yüce arşın sahibisin.",
+        "p": 5
+      },
+      {
+        "role": "arabic",
+        "text": "مَا شَاءَ اللهُ كَانَ، وَمَا لَمْ يَشَأْ لَمْ يَكُنْ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، أَعْلَمُ أَنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا.",
+        "p": 5
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Mâşâallâhu kâne ve mâ lem yeşe’ lem yekun, velâ havle ve lâ kuvvete illâ billâhi l-‘aliyyil ażîm.E’lemu ennellâhe ‘alâ kulli şey’in kadîr, ve ennellâhe kad ehâta bi kulli şey’in ‘ılmâ.",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’ın diledikleri oldu, dilemedikleri olmadı. Güç ve kuvvet ancak yüce olan Allah’ındır. Ben biliyorum ki, Allah her şeye kadirdir. Yine biliyorum ki, Allah her şeyi ilmiyle kuşatmıştır. (İhata etmiştir.)",
+        "p": 5
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 6
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ كُلِّ دَابَّةٍ أَنْتَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلَى صِرَاطٍ مُسْتَقِيمٍ.",
+        "p": 6
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî e’ûzu bike min şerri nefsî, ve min şerri kulli dâbbetin ente âĥizun bi nâŝiyetihâ, inne Rabbî ‘alâ ŝırâtım-mustekîm.",
+        "p": 6
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım ben kendi nefsimin şerrinden ve sıkıca elinde tuttuğun tüm yarattıklarının şerrinden sana sığınırım. Rabbim doğru yola iletendir.",
+        "p": 6
+      },
+      {
+        "role": "arabic",
+        "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ وَمِنْ عَذَابِكَ أَسْتَجِيرُ اَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ.",
+        "p": 6
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ hayyu ya kayyûmu bi-rahmetike esteğîsu ve min ‘azâbike estecîr, eslih lî şe’nî kullehû ve lâ tekilnî ilâ nefsî tarfete ‘ayn.",
+        "p": 6
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey diri ve kullarını gözeten Allah’ım senden rahmetini dilenir, azabından çekinirim. Bütün halimi ıslah et ve göz açıp kapanıncaya kadar dahi olsa beni nefsime bırakma.",
+        "p": 6
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ",
+        "p": 6
+      },
+      {
+        "role": "arabic",
+        "text": "وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+        "p": 6
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî e’ûzu bike mine l-hemmi ve l-hazen, ve e’ûzu bike mine l-‘aczi ve l-kesel, ve e’ûzu bike mine l-cubni ve l-buĥl, ve e’ûzu bike min ğalebeti d-deyni ve kahri r-ricâl.",
+        "p": 6
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’ım üzüntü ve hüzünden, acizlik ve tembellikten, korkaklık ve cimrilikten, borçlarımın çokluğundan ve insanların kahrından sana sığınırım.",
+        "p": 6
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ. اَللّٰهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ وَالْمُعَافَاةَ الدَّاءِمَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
+        "p": 6
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî es’eluke l-‘âfiyete fi d-dunyâ ve l-âĥirah. Allâhumme innî es’eluke l-‘afve vel ‘âfiyete vel mu’âfâte d-dâimete fî dînî ve dunyâye ve ehlî mâlî.",
+        "p": 6
+      },
+      {
+        "role": "turkish",
+        "text": "Allah’ım ben senden dünyada ve ahirette afiyet diliyorum. Ben senden dünyamda, ailemde ve malımda bağışlama, afiyet ve devamlı yardım diliyorum. Ey Allah’ım, zayıflıklarımı ve noksanlarımı ört. Beni korkularımdan emin eyle.",
+        "p": 6
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اَللّٰهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي.",
+        "p": 7
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhummestur ‘avrâtî ve âmin rav’atî, Allâhummehfażnî min beyni yedeyye ve min ĥalfî ve ‘an yemînî ve ‘an şimâlî ve min fevkî ve e’ûzu bi-‘ażametike en uğtâle min tehtî.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım beni önümden, arkamdan, sağımdan, solumdan ve üstümden gelecek tehlikelerden koru. Senin azametinle altımdan yerin yarılarak helak edilmekten sana sığınırım.",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ أَنْتَ خَلَقْتَنِي، وَأَنْتَ تَهْدِينِي، وَأَنْتَ تُطْعِمُنِي وَأَنْتَ تَسْقِينِي وَأَنْتَ تُمِيتُنِي وَأَنْتَ تُحْيِينِي، وَأَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+        "p": 7
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme ente ĥalektenî ve ente tehdînî ve ente tut’ımunî ve ente teskînî ve ente tumîtunî ve ente tuhyînî ve ente ‘alâ kulli şey’in kadîr.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım beni sen yarattın, beni doğru yola iletecek de sensin. Sen bana yedirirsin ve sen bana içirirsin. Sen öldürür sen diriltirsin. Sen her şeye kadirsin.",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "أَصْبَحْنَا عَلَى فِطْرَةِ الْإِسْلَامِ، وَعَلَى كَلِمَةِ الْإِخْلَاصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ.",
+        "p": 7
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Esbahnâ ‘alâ fıtrati l-islâm, ve ‘alâ kelimeti l-iĥlâs, ve ‘alâ dîni nebbiyyinâ Muhammedin ŝallallâhu ‘aleyhi ve sellem, ve ‘alâ milleti ebînâ ibrâhîme hanîfen muslimen ve mâ kâne minel muşrikîn.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Biz islam fıtratı ve tevhidi kelimesi üzerineyiz. Peygamberimiz Muhammed’in dini ve hiçbir zaman müşrik olmayan babamız İbrahim’in hanif Müslüman milleti(ümmeti) üzerineyiz.",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "للّٰهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَعَلَيْكَ نَتَوَكَّلُ وَإِلَيْكَ النُّشُورُ.",
+        "p": 7
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme bike esbahnâ ve bike emseynâ ve bike nehyâ ve bike nemût, ve ‘aleyke netevekkelu ve ileyke n-nuşûr.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım Seninle sabahlar, Seninle akşamlarız. Seninle yaşar seninle ölürüz. Tevekkülümüz sanadır. Dönüş de sanadır.",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ للهِ وَالْحَمْدُ للهِ رَبِّ الْعَالَمِينَ.",
+        "p": 7
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هٰذَا الْيَوْمِ فَتْحَهُ وَنَصْرَهُ وَنُورَهُ وَبَرَكَتَهُ وَهُدَاهُ،",
+        "p": 7
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Esbahnâ ve esbaha l-mülkü lillâhi velhamdulillâhi Rabbi l-‘âlemîn. Allâhumme innî es’eluke ĥayra hâzel yevmi fethahû ve neŝrahû ve nûrahû ve bereketehû ve hudâh.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Bizler ve mülk ancak Allah’a ait olduk. Hamd alemlerin rabbi olan Allah’ındır. Ey Allah’ım senden bugünün hayırlı olmasını. Bugünde yardımcı olmanı ve bugünün nurunu, bereketini, fethini ve hidayetini diliyorum.",
+        "p": 7
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هٰذَا الْيَوْمِ وَخَيْرَ مَا فِيهِ وَخَيْرَ مَا قَبْلَهُ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ هٰذَا الْيَوْمِ وَشَرِّ مَا فِيهِ وَشَرِّ مَا قَبْلَهُ وَشَرِّ مَا بَعْدَهُ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme innî es’eluke ĥayra hâze l-yevmi ve ĥayra mâ fîh, ve ĥayra mâ kablehû ve ĥayra mâ be’deh, ve e’ûzu bike min şerri haze l-yevmi ve şerri mâ fîh, ve şerri mâ kablehu ve şerri ma ba’deh.",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım senden bugünün hayrını diliyorum. Bugünde bulunan hayrı, öncesinde ve sonrasında bulunan hayrı diliyorum, ve bugünün şerrinden sana sığınıyorum. Bugünde bulunan şerlerden, öncesinde ve sonrasındaki şerlerden de sana sığınıyorum.",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ عَلَى ذَالِكَ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme mâ esbeha bî min ni’metin ev bi-ehadin min ĥalkike fe minke vahdeke lâ şerîke lek, feleke l-hamdu ve leke ş-şukru ‘alâ zâlik.",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım bana ya da yarattıklarından herhangi birine ancak sen nimet verirsin. Ortağın yoktur. Hamd sanadır. Bu nimete şükür de ancak sanadır.",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ عَدَدَ خَلْقِهِ وَرِضَاءَ نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ (ثَلَآثًا)",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Subhânallâhi ve bihamdihî subhânAllahi l-‘aliyyi l-‘ażîm ‘adede ĥalkıh, ve rıdae nefsih, ve zinete ‘arşih, ve midâde kelîmatih. (Salâse)",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Yarattıklarının adedince, kendisinin razı olduğu kadar, arşın ağırlığı ve yüce isim ve sıfatları kapsamı kadar Allah’ı hamd ile tesbih ederim. O yüce Allah’ı eksikliklerden tenzih ederim. (3 defa)",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Subhânallâhi ‘adede mâ ĥaleka fi s-semâ’,",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Gökte yarattıkları adedince Allah’ı tenzih ederim.",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Subhânallâhi ‘adede mâ ĥaleka fi l-erd,",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Yerde yarattıkları adedince Allah’ı tenzih ederim.",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ عَدَدَ مَا بَيْنَ ذَالِكَ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Subhânallâhi ‘adede mâ beyne zâlik,",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Yer ve Gök arasındakiler adedince Allah’ı tenzih ederim.",
+        "p": 8
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ عَدَدَ مَا هُوَ خَالِقٌ.",
+        "p": 8
+      },
+      {
+        "role": "translit",
+        "text": "Subhânallâhi ‘adede mâ huve ĥâlik,",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Onun tüm yarattıkları adedince Allah’ı tenzih ederim.",
+        "p": 8
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَلْحَمْدُ للهِ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Elhamdu lillâhi ‘adede mâ ĥaleka fi s-semâ’,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Gökte yarattıkları adedince Allah’a hamd ederim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَلْحَمْدُ للهِ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Elhamdu lillâhi ‘adede mâ ĥaleka fi l-erd,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yerde yarattıkları adedince Allah’a hamd ederim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَلْحَمْدُ للهِ عَدَدَ مَا بَيْنَ ذَالِكَ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Elhamdu lillâhi ‘adede mâ beyne zâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yer ve Gök arasındakiler adedince Allah’a hamd ederim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَلْحَمْدُ للهِ عَدَدَ مَا هُوَ خَالِقٌ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Elhamdu lillâhi ‘adede mâ huve ĥâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Onun tüm yarattıkları adedince Allah’a hamd ederim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Lâ ilâhe illAllah ‘adede mâ ĥaleka fi s-semâ’,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Gökte yarattıkları adedince Allah’tan başka ilah yoktur derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Lâ ilâhe illAllah ‘adede mâ ĥaleka fi l-erd,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yerde yarattıkları adedince Allah’tan başka ilah yoktur derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ عَدَدَ مَا بَيْنَ ذَالِكَ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Lâ ilâhe illAllah ‘adede mâ beyne zâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yer ve Gök arasındakiler adedince Allah’tan başka ilah yoktur derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ عَدَدَ مَا هُوَ خَالِقٌ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Lâ ilâhe illAllah ‘adede mâ huve ĥâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Onun tüm yarattıkları adedince Allah’tan başka ilah yoktur derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَللهُ أَكْبَرُ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Allâhuekber ‘adede mâ ĥaleka fi s-semâ’,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Gökte yarattıkları adedince Allah en büyüktür derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَللهُ أَكْبَرُ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Allâhuekber ‘adede mâ ĥaleka fi l-erd,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yerde yarattıkları adedince Allah en büyüktür derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَللهُ أَكْبَرُ عَدَدَ مَا بَيْنَ ذَالِكَ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Allâhuekber ‘adede mâ beyne zâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Yer ve Gök arasındakiler adedince Allah en büyüktür derim.",
+        "p": 9
+      },
+      {
+        "role": "arabic",
+        "text": "اَللهُ أَكْبَرُ عَدَدَ مَا هُوَ خَالِقٌ.",
+        "p": 9
+      },
+      {
+        "role": "translit",
+        "text": "Allâhuekber ‘adede mâ huve ĥâlik,",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Onun tüm yarattıkları adedince Allah en büyüktür derim.",
+        "p": 9
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ.",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ.",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ عَدَدَ مَا بَيْنَ ذَالِكَ.",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ عَدَدَ مَا هُوَ خَالِقٌ.",
+        "p": 10
+      },
+      {
+        "role": "translit",
+        "text": "Lâ havle ve lâ kuvvete illâ billâhil aliyyil azîm ‘adede mâ ĥaleka fi s-sema’, Lâ havle ve lâ kuvvete illâ billâhil aliyyil azîm adede mâ ĥaleka fi l-erd, Lâ havle ve lâ kuvvete illâ billâhil aliyyil azîm adede mâ beyne zâlik, Lâ havle ve lâ kuvvete illâ billâhil aliyyil azîm adede mâ huve ĥâlik,",
+        "p": 10
+      },
+      {
+        "role": "turkish",
+        "text": "Gökte yarattıkları adedince Allah’tan başka güç ve kuvvet sahibi yoktur derim. Yerde yarattıkları adedince Allah’tan başka güç ve kuvvet sahibi yoktur derim. Yer ile gök arasındakiler adedince Allah’tan başka güç ve kuvvet sahibi yoktur derim. O’nun tüm yarattıkları adedince Allah’tan başka güç ve kuvvet sahibi yoktur derim.",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَدَدَ كُلِّ ذَرَّةٍ أَلْفَ مَرَّةٍ (ثَلَآثًا)",
+        "p": 10
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Lâ ilâhe illallâhu vahdehû lâ şerîke leh, lehu l-mulku ve lehu l-hamdu yuhyî ve yumîtu ve huve ‘alâ kulli şey’in kadîr, ‘adede kulli zerratin elfe merrah (Salâse)",
+        "p": 10
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Tüm zerrelerin adedince bin defa söylüyorum ki; Allah’tan başka ilah yoktur, o tektir, ortağı yoktur. Mülk O’nundur, hamd O’nadır. O Diriltir ve O öldürür, O her şeye Kadirdir.",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ مَا شَاءَ اللهُ، لَا يَسُوقُ الْخَيْرَ إِلَّا اللهُ",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ مَا شَاءَ اللهُ، لَا يَصْرِفُ السُّوءَ إِلَّا اللهُ",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ مَا شَاءَ اللهُ، مَا كَانَ مِنْ نِعْمَةٍ فَمِنَ اللهِ",
+        "p": 10
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ مَا شَاءَ اللهُ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ (أَرْبَعًا)",
+        "p": 10
+      },
+      {
+        "role": "translit",
+        "text": "Bismillâhi mâşâallâhu lâ yesûkul ĥayra illallâh, Bismillâhi mâşâallâhu lâ yeŝrıfu s-sûe illallâh, Bismillâhi mâşâallâhu mâ kâne min ni’metin feminellâh, Bismillâhi mâşâallâhu lâ havle ve lâ kuvvete illâ billâh. (erbe’an)",
+        "p": 10
+      },
+      {
+        "role": "turkish",
+        "text": "Allah’ın ismi ile, o ne isterse o olur. Hayrı ancak Allah sevk eder. Allah’ın ismi ile, o ne isterse o olur. Şerri ancak Allah def eder. Allah’ın ismi ile, o ne isterse o olur. Nimet olarak ne varsa hepsi o’ndandır. Allah’ın ismi ile, o ne isterse o olur. Bütün güç ve kuvvet o’nunladır. (4 defa)",
+        "p": 10
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 11
+      },
+      {
+        "y": 70.60368347167969,
+        "x0": 259.7466735839844,
+        "x1": 328.65020751953125,
+        "role": "cap",
+        "text": "Râtibu l-imâm",
+        "p": 11
+      },
+      {
+        "y": 86.43466186523438,
+        "x0": 204.5644073486328,
+        "x1": 383.9900817871094,
+        "role": "cap",
+        "text": "İmam Ömer bin Abdurrahmân el-Attâs",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "أَعُوذُ بِاللهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: E’ûzu billâhi s-semî’ıl ‘alîmi mine ş-şeytânirracîm. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Yarattıklarının şerrinden, Allahu Teâla'nın tam ve eksiksiz kelamı (yüce kitâbı) ile O'na sığınırım. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: E’ûzu bi-kelimâtillâhittâmmâti min şerri mâ ĥalek. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: İsmi ile, yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın İsmi ile ... O işiten ve bilendir. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhillezî lâ yedurru me’asmihî şey’un fi l-erdı ve lâ fi s-semâi ve huve s-semî’ul ‘alîm. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: İsmi ile, yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın İsmi ile ... O işiten ve bilendir. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ (عَشْرًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhirrahmânirrahîm ve lâ havle ve lâ kuvvete illâ billâhi l-‘aliyyi l-‘ażîm. (Aşra marrât)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Rahman ve rahim olan Allah’ın adıyla güç ve kuvvet ancak Allah’ındır. (10 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhirrahmânirrahîm. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Rahman ve rahim olan Allah’ın adıyla (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ تَحَصَّنَّا بِاللهِ، بِسْمِ اللهِ تَوَكَّلْنَا عَلَى اللهِ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhi tehaŝŝannâ billâh, bismillâhi tevekkelnâ ‘alellâh. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’ın adıyla korunduk, Allah’ın adıyla tevekkül ettik. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "بِسْمِ اللهِ آمَنَّا بِاللهِ، وَمَنْ يُؤْمِنْ بِاللهِ لَا خَوْفٌ عَلَيْهِ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Bismillâhi âmennâ billâh, ve men yu’min billâhi lâ ĥavfun ‘aleyh. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’ın adıyla, Allah’a iman ettik, kim ki Allah’a iman ederse, ona korku yoktur. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ عَزَّ اللهُ سُبْحَانَ اللهِ جَلَّ اللهُ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: SübhânAllahi ‘azzellâh, sübhânellâhi cellellâh. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Her türlü noksanlıktan beri olan Allah Aziz’dir. Her türlü noksanlıktan beri Allah celal sahibidir. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ (ثَلَآثًا)",
+        "p": 11
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: SübhânAllahi ve bi-hamdihî Sübhânellahi l-‘ażîm. (Salâse)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah'ı her türlü noksanlıktan hamd ile tenzih ederim, O her türlü noksanlıktan beri olan Allah Azîm'dir. (3 defa)",
+        "p": 11
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "سُبْحَانَ اللهِ وَالْحَمْدُ للهِ وَلَآ إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ (أَرْبَعًا)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Sübhânellahi velhamdulillâhi ve lâ ilâhe illallâhu vellâhu ekber. (Erbea)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah her türlü noksanlıktan beridir, hamd O'na mahsustur, O'ndan başka ilâh yoktur. Allah en büyüktür. (4 defa)",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "يَا لَطِيفًا بِخَلْقِهِ، يَا عَلِيمًا بِخَلْقِهِ، يَا خَبِيرًا بِخَلْقِهِ، أُلْطُفْ بِنَا يَا لَطِيفُ يَا عَلِيمُ يَا خَبِيرُ (ثَلَآثًا)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ latîfen bi ĥalkıh, yâ ‘alîmen bi-ĥalkıh, yâ habîran bi-ĥalkıh, ultuf binâ yâ latîf yâ ‘alîm yâ ĥabîr. (Salâse)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey yarattıklarına karşı lütuf sahibi olan Latif. Ey yarattıklarının halini bilen Alim. Ey Yarattıklarından haberdar olan Habir. Bize lütfet, Ey Latif, Ey Habir, Ey Alim. (3 defa)",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "يَا لَطِيفًا لَمْ يَزَلْ، أُلْطُفْ بِنَا فِيمَا نَزَلْ، إِنَّكَ لَطِيفٌ لَمْ تَزَلْ، أُلْطُفْ بِنَا وَالْمُسْلِمِينَ (ثَلَآثًا)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ latîfen lem yezel, ultuf binâ fîmâ nezel, inneke latîfun lem tezel, ultuf binâ ve l-muslimîn. (Salâse)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Lütfu zail olmayan, indirdiğin Kur’an’dakilerle bize lütfet. Muhakkak sen lütfu tükenmeyensin. Bize ve Müslümanlara lütfet. (3 defa)",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "لَآ إِلٰهَ إِلَّا اللهُ (٤٠ مرة أو ١٠٠)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Lâ ilâhe illallâh. (Erba'îne merrah veya Mi'ete merrah)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’tan başka ilah yoktur.",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ رَسُولُ اللهِ (مرة)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Muhammedun rasûlullah, ŝallallâhu ‘aleyhi ve sellem.",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Muhammed O’nun elçisidir, (Ŝallallâhu ‘aleyhi ve sellem)",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ (سبعًا)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Hasbunallâhu ve ni’me l-vekîl. (Seb'a)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah bize yeter, O ne güzel vekildir.",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللّٰهُمَّ صَلِّ عَلَيْهِ وَسَلِّمْ (١١)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Allâhumme ŝalli ‘alâ Muhammed, allâhumme ŝalli ‘aleyhi ve sellim. (İhdâ 'aşrete merraten)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’ım Muhammed’e rahmet et, Allah’ım ona rahmet et ve onu selamete erdir.",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "أَسْتَغْفِرُ اللهَ (١١)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Esteğfirullâh. (İhdâ 'aşrete merraten)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Allah’tan mağfiret dilerim.",
+        "p": 12
+      },
+      {
+        "role": "arabic",
+        "text": "تَاءِبُونَ إِلَى اللهِ (ثَلَآثًا)",
+        "p": 12
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Tâibûne ilellâh. (Salâse)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Biz Allah’a tevbe edenleriz. (3 defa)",
+        "p": 12
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 13
+      },
+      {
+        "role": "arabic",
+        "text": "يَا اَللهُ بِهَا يَا اَللهُ بِهَا يَا اَللهُ بِحُسْنِ الْخَاتِمَةِ (ثَلَآثًا)",
+        "p": 13
+      },
+      {
+        "role": "translit",
+        "text": "Okunuşu: Yâ Allâhu bihâ, Yâ Allâhu bihâ, Yâ Allâhu bi-husni l-ĥâtimeh. (Salâse)",
+        "p": 13
+      },
+      {
+        "role": "turkish",
+        "text": "Manası: Ey Allah’ım onunla, Ey Allah’ım onunla, Ey Allah’ım onunla, o güzel sonla bitir. (3 defa)",
+        "p": 13
+      },
+      {
+        "role": "arabic",
+        "text": "﴿غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ. لَا يُكَلِّفُ اللهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَآنَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ﴾",
+        "p": 13
+      },
+      {
+        "role": "translit",
+        "text": "Ğufrâneke Rabbenâ ve ileyke l-meŝîr, lâ yukellifullâhu nefsen illâ vus’ahâ, lehâ mâ kesebet ve aleyhâ mektesebet, Rabbenâ lâ tuâĥıznâ in nesînâ ev eĥta’nâ, Rabbenâ ve lâ tehmil ‘aleynâ iŝran kema hamelthû ‘alellezîne min kablinâ, Rabbenâ ve lâ tuhammilnâ mâ lâ tâkate lenâ bih, ve’fu ‘annâ veğfir lenâ verhamnâ, ente Mevlânâ fenŝurnâ ‘ale l-kavmi l-kâfirîn.",
+        "p": 13
+      },
+      {
+        "role": "turkish",
+        "text": "… Ey Rabbimiz Senden bağışlama dileriz. Sonunda dönüş yalnız sanadır. Allah bir kimseyi ancak gücünün yettiği şeyle yükümlü kılar. Onun Kazandığı iyilik kendi yararına, kötülükte kendi zararınadır. (Şöyle diyerek dua ediniz): “Ey Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma. Ey Rabbimiz, bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabbimiz, bize gücümüzün yetmediği şeyleri yükleme, Bizi affet, bizi bağışla, bize acı, sen bizim mevlamızsın, kafirler topluluğuna karşı bize yardım et.",
+        "p": 13
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 14
+      },
+      {
+        "role": "title_ar",
+        "text": "الصَّلَاةُ الْعَظِيمِيَّة",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "اَللّٰهُمَّ إِنِّى أَسْأَلُكَ بِنُورِ وَجْهِ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "الَّذِى مَلَأَ أَرْكَانَ عَرْشِ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "وَقَامَتْ بِهِ عَوَالِمُ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "أَنْ تُصَلِّيَ عَلَى سَيِّدِنَا مُحَمَّدٍ ذِى الْقَدْرِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "عَلَى آلِ نَبِيِّ اللهِ الْعَظِيمِ بِقَدْرِ عَظَمَةِ ذَاتِ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "فِى كُلِّ لَمْحَةٍ وَنَفَسٍ عَدَدَ مَا فِى عِلْمِ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "صَلَاةً دَاءِمَةً بِدَوَامِ اللهِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "تَعْظِيمًا لِحَقِّكَ يَا مَوْلَانَا يَا مُحَمَّدُ يَا ذَا الْخُلُقِ الْعَظِيمِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "وَسَلِّمْ عَلَيْهِ وَعَلَى آلِهِ مِثْلَ ذَالِكَ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "وَاجْمَعْ بَيْنِى وَبَيْنَهُ كَمَا جَمَعْتَ بَيْنَ الرُّوحِ وَالنَّفْسِ،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "ظَاهِرًا وَبَاطِنًا يَقَظَةً وَمَنَامًا،",
+        "p": 14
+      },
+      {
+        "role": "arabic",
+        "text": "وَاجْعَلْهُ يَا رَبِّ رُوحًا لِذَاتِى مِنْ جَمِيعِ الْوُجُوهِ فِى الدُّنْيَا قَبْلَ الْآخِرَةِ يَا عَظِيمُ.",
+        "p": 14
+      },
+      {
+        "y": 445.232421875,
+        "x0": 139.20509338378906,
+        "x1": 222.35226440429688,
+        "role": "cap",
+        "text": "Salâtu l-Azîmiyye",
+        "p": 14
+      },
+      {
+        "y": 461.06341552734375,
+        "x0": 128.8018798828125,
+        "x1": 232.7469482421875,
+        "role": "cap",
+        "text": "İmam Ahmed bin İdrîs",
+        "p": 14
+      },
+      {
+        "role": "translit",
+        "text": "Allâhumme innî es’eluke bi-nûri vechillâhi l-‘ażîm, Ellezî melee erkâne ‘arşillâhi l-‘ażîm, Ve kâmet bihî ‘avâlimullâhi l-‘ażîm, En tuŝalliye ‘alâ seyyidinâ Muhammedin zi l-kadri l-‘ażîm, Ve ‘alâ âl-i nebiyyillâhi l-‘ażîm, Bi-kadri ażamet-i zâtillâhi l-‘ażîm, Fî kulli lemhatin ve nefesin ‘adede mâ fî ‘ılmillâhi l-‘ażîm, Ŝalâten dâimeten bidevâmillâhil l-‘ażîm, Te’żîmen li-hakkıke yâ Mevlânâ yâ Muhammed yâ zelĥulukıl l-‘ażîm, Ve sellim ‘aleyhi ve ‘alâ âlihi misle zâlik, Vecme’ beynî ve beynehû kemâ ceme’te beyne r-rûhi ve n-nefs, żâhiren ve bâtınê, yakażaten ve menâmâ, vec’alhu yâ rabbi rûhan lizâtî min cemî’ı l-vucûhi fi d- dunyâ kable l-âhirati yâ ‘ażîm.",
+        "p": 14
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım Büyük arşın çevresini dolduran ve alemlerin ayakta durmasına vesile olan, vechinin büyük nuru hakkı için, yüksek kıymet sahibi efendimiz Muhammed’e ve onun aline, zatının azameti kadar ve yüce ilminin ihata ettiği şeyler kadar, her bakış ve her nefeste salat ve selam etmeni ve bunların senin ebediliğin kadar devam etmesini istiyorum. Ey büyük ahlak sahibi, ey Efendimiz, Ey Muhammed, Bunu senin hakkını ödemek ve kadrinin yüceliğini ifade etmek için istiyorum. Allah’ım Ruhla vücudu birleştirdiğin gibi, zahirde ve batında, uyanıkken ve rüya halinde beni de Peygamberimizle birleştir, bir araya getir. Ey Büyük Rabbim, O’nu her yönden ve daha dünyada iken varlığımın ruhu kıl.",
+        "p": 14
+      },
+      {
+        "role": "turkish",
+        "text": "Sabah Evrâdı",
+        "p": 15
+      },
+      {
+        "role": "head",
+        "text": "BAĞIŞLAMA DUASI:",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Başta sevgili Peygamber Efendimiz’e (Aleyhissalatu ve’s selâm)",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "ve diğer peygamberlerin (aleyhimu-s selam) ruhlarına, Ashâb-ı kiram, ehl-i beyt, eimme-i müctehîdîn,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Hususan bu duaların sahibi olan ve Ba’levi yolundan gelen Seyyidlerin ruhlarına;",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ömer bin Abdurrahmân Attâs,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Abdullah el Haddâd,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed bin Hasan Attâs",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed bin İdris,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Abdulkadir Geylanî,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed er-Rifâi,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Ahmed el-Bedevi,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid İbrahim-i Dussûki,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Şeyh Hasen Ali Şâzeli",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Şâh-ı Muhammed Bahaddin Nakşibendî hazretlerinin ruhlarına,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidinâ ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Seyyid Alevî bin Abbas el Mâliki ve,",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Şeyhimiz Sertacımız Seyyid Muhammed bin Alevî el Mâliki’nin",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "ruhuna ve",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Seyyidina ve Mevlana",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Şeyhimiz Sertacımız Seyyid Ahmed bin Muhammed el Mâliki’nin",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "ruhaniyetine hediye eyledik, kabul eyle Yâ Rabbi AMİN.",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "اَللَّهُمَّ اَمَدَّنَا بِمَدَدِهِمْ (ثَلَآثًا) آمِنْ",
+        "p": 15
+      },
+      {
+        "role": "translit",
+        "text": "Allâhumme emednâ bi mededihim. (Salâse)",
+        "p": 15
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Allah’ım, onların mededleriyle bizi mededlendir (3 defa)",
+        "p": 15
+      },
+      {
+        "role": "note",
+        "text": "Harflerin gösterimi ile ilgili açıklama:",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ث = s̲",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ح = h̲",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "خ = ĥ",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ذ = z̲",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ع = ʻa",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ص = ŝ",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ض = d̲",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ط = t̲",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ظ = ż",
+        "p": 15
+      },
+      {
+        "role": "arabic",
+        "text": "ق = k̲",
+        "p": 15
+      }
+    ],
+    "nimg": 0
+  },
+  "Kaside": {
+    "key": "Kaside",
+    "title": "Kasîde-i Muhammediyye",
+    "blocks": [
+      {
+        "role": "turkish",
+        "text": "Kasîde‐i Muhammediyye",
+        "p": 1
+      },
+      {
+        "role": "title_ar",
+        "text": "القصيدة المحمدية للامام البوصيري",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مَوْلَايَ صَلِّ وَسَلِّمْ دَائِمًا أَبَدًا عَلَى حَبِيبِكَ خَيْرِ الْخَلْقِ كُلِّهِمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Mevlâye salli ve sellim dâimen ebedâ Alâ habîbike hayri’l-halkı küllihimi (selâsen)",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Ey Rabbim! Yaratılmışların en hayırlısı olan Habibine daima ve ebediyen salat ve selam eyle. (3 defa)",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ أَشْرَفُ الْأَعْرَابِ وَالْعَجَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün eşrefül a'râbi vel 'acemi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Arab ve Acemlerin (Arab olmayanların) en şereflisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ خَيْرُ مَنْ يَمْشِي عَلَى قَدَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ĥayru mey yemşî 'alâ kademin",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) ayakları üzerinde yürüyen (canlıların) en hayırlısıdır.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ بَاسِطُ الْمَعْرُوفِ جَامِعُهُ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün bâsitül ma'rûfi câmi'uhu",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) herkesçe tanınan ve bilinen birisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ صَاحِبُ الْإِحْسَانِ وَالْكَرَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ŝâhibul ihsâni vel kerami",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) İhsân (iyilik) ve kerem (cömertlik) sâhibidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ تَاجُ رُسْلِ اللهِ قَاطِبَةً",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün tacü Ruslillahi Katibeten",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ’nın Peygamberleri’nin sonuncusu ve efendisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ صَادِقُ الْأَقْوَالِ وَالْكَلِمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ŝadikul ekvali vel kelimi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) sözleri ve kelimeleri doğru olan birisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ ثَابِتُ الْمِيثَاقِ حَافِظُهُ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün sabitü’l misakı hafiżuhu",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ’ya vermiş olduğu sözü muhâfaza eden birisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ طَيِّبُ الْأَخْلَاقِ وَالشِّيَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün tayyibül aĥlaki veşşiyemi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) ahlâkı güzel olan birisidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ رُوِيَتْ بِالنُّورِ طِينَتُهُ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ruviyet bin nuri tinetuhu",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ın yaratılışı, nûrları gizleyen bir yapıdadır.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ لَمْ يَزَلْ نُورًا مِنَ الْقِدَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün lem yezel nuran minel kıdemi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ın nûru ezeldendir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ حَاكِمٌ بِالْعَدْلِ ذُو شَرَفٍ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün hakimun bil adli zu şerafin",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Adâletle hükmeden ve şeref sâhibidir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ مَعْدِنُ الْإِنْعَامِ وَالْحِكَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün madinül in’ami vel hikemi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Nimet ve hikmet kaynağıdır.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ خَيْرُ خَلْقِ اللهِ مِنْ مُضَرٍ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ĥayru ĥalkillahi min mudarin",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ’nın yarattıklarının en hayırlısıdır.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ خَيْرُ رُسْلِ اللهِ كُلِّهِمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ĥayrü Ruslillahi kullihimi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ’nın peygamberlerinin en hayırlısıdır.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ دِينُهُ حَقٌّ نَدِينُ بِهِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün dinuhü hakkun nedinü bihi",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ın dîni, kendisi ile uyarılması hak olan bir Dîn’dir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ مُجْمِلًا حَقًّا عَلَى عَلَمِ",
+        "p": 1
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün mücmilen hakkan ‘alâ ‘alemin",
+        "p": 1
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) gerçek olan ilmi, güzel görendir.",
+        "p": 1
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ ذِكْرُهُ رُوحٌ لِاَنْفُسِنَا",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün zikruhu ruhun ilenfüsine",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’a zikretmek (anmak) bizim için bir ruhtur.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ شُكْرُهُ فَرْضٌ عَلَى الْأُمَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün şükruhu fardun ‘alel ümemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’a teşekkür etmek ümmeti üzerine farzdır.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ زِينَةُ الدُّنْيَا وَبَهْجَتُهَا",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ziynetüddünya ve behcetüha",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) dünyânın süsü ve vâr olma gerekçesidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ كَاشِفُ الْغُمَّاتِ وَالظُّلَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün kaşifül ğummati veżżulemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) karanlıkları aydınlatan ve perdeleri kaldırandır.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ سَيِّدٌ طَابَتْ مَنَاقِبُهُ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün seyyidün tabet menakibuhu",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ı menkıbeleri (kıssaları) güzel olan bir efendidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ صَاغَهُ الرَّحْمَنُ بِالنِّعَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ŝağahür rahmenu bin-ni‘ami",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ı Allâh’u Teâlâ ni’metleri ile donatmıştır.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ صَفْوَةُ الْبَارِي وَخِيرَتُهُ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ŝaffetül bari ve ĥıyretuhu",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ’nın özel seçtiği bir kuludur.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ طَاهِرٌ مِنْ سَائِرِ التُّهَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün tahirun min sairit tühemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) kötülükleri örten ve ziyâde temiz olan birisidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ ضَاحِكٌ لِلضَّيْفِ مُكْرِمَهُ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün dahikün li deyfi mükrimehu",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’in misâfire karşı güler yüzlü ve cömert davranan birisidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ جَارُهُ وَاللهِ لَمْ يُضَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün carihu vallahi lem yüdemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’a yemîn olsun ki komşusu sıkıntıya düşmez.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ طَابَتِ الدُّنْيَا بِبِعْثَتِهِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün tabetid dünya bi biğsetihi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’ın gelmesi ile dünya temizlenmiştir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ جَآءَ بِالْأٰيَاتِ وَالْحِكَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün cae bil ayati vel hikemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) âyet ve hikmetlerle gelmiştir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ يَوْمَ بَعْثِ النَّاسِ شَافِعُنَا",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün yevme ba‘sin nâsi şâfi‘un",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm)’in insanların tekrar dirilme gününde, bize şefaat edecektir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ نُورُهُ الْهَادِي مِنَ الظُّلَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün nuruhul Hadi mineż żulemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) nûru, karanlıklara hidâyet vericidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ قَآئِمٌ للهِ ذُو هِمَمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün kaimun lillahi zühimemi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) Allâh’u Teâlâ için kâim’dir ve himmet sâhibidir.",
+        "p": 2
+      },
+      {
+        "role": "arabic",
+        "text": "مُحَمَّدٌ خَاتِمٌ لِرُّسْلِ كُلِّهِمِ",
+        "p": 2
+      },
+      {
+        "role": "translit",
+        "text": "Muhammedün ĥatimun lirrusli küllihimi",
+        "p": 2
+      },
+      {
+        "role": "turkish",
+        "text": "Muhammed (Aleyhissalâtü vesselâm) peygamberlerin sonuncusudur.",
+        "p": 2
+      }
+    ],
+    "nimg": 0
+  }
+}

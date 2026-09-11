@@ -1,0 +1,615 @@
+<title>Evrâd Kitaplığı</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&display=swap">
+
+<style>
+:root{
+  --paper:#F6F1E4; --paper-2:#EFE8D6; --paper-3:#E6DCC4;
+  --ink:#26211A; --ink-2:#544B3D; --ink-3:#8A7E68;
+  --rubric:#A32E1C; --lapis:#2B4A78; --verdigris:#4C6438;
+  --zer:#B08A34; --zer-soft:#DCC79425; --line:#D8CDB2;
+  --sheet:#FCF9F0; --shadow:0 1px 2px #26211a0d, 0 8px 24px #26211a0a;
+  --accent:#B08A34;
+  --ar:2.0rem; --lat:1.0rem; --arline:1.75rem;
+  --serif:"Gentium Book Plus","Iowan Old Style",Georgia,serif;
+  --amiri:"Amiri","Traditional Arabic","Geeza Pro","Noto Naskh Arabic",serif;
+  --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#14120E; --paper-2:#1D1A14; --paper-3:#272219;
+    --ink:#EADFC8; --ink-2:#B8AB90; --ink-3:#847A65;
+    --rubric:#E0715A; --lapis:#8FB3E6; --verdigris:#A2C081;
+    --zer:#C9A75C; --zer-soft:#c9a75c1f; --line:#332D22;
+    --sheet:#1A1711; --shadow:0 1px 2px #0006, 0 8px 24px #0004;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14120E; --paper-2:#1D1A14; --paper-3:#272219;
+  --ink:#EADFC8; --ink-2:#B8AB90; --ink-3:#847A65;
+  --rubric:#E0715A; --lapis:#8FB3E6; --verdigris:#A2C081;
+  --zer:#C9A75C; --zer-soft:#c9a75c1f; --line:#332D22;
+  --sheet:#1A1711; --shadow:0 1px 2px #0006, 0 8px 24px #0004;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+     line-height:1.6;overflow-x:hidden}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.bar{position:sticky;top:0;z-index:40;background:color-mix(in srgb,var(--paper) 92%,transparent);
+     backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.bar-in{max-width:44rem;margin:0 auto;display:flex;align-items:center;gap:.25rem;
+        padding:.5rem .6rem;min-height:3rem}
+.bar h1{font-family:var(--amiri);font-size:1.05rem;font-weight:700;margin:0;
+        flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ic{display:grid;place-items:center;width:2.4rem;height:2.4rem;border-radius:8px;
+    color:var(--ink-2);flex:none}
+.ic:hover{background:var(--paper-3);color:var(--ink)}
+.ic.on{color:var(--accent);background:var(--zer-soft)}
+.ic svg{width:1.2rem;height:1.2rem;fill:none;stroke:currentColor;stroke-width:1.7;
+        stroke-linecap:round;stroke-linejoin:round}
+
+.wrap{max-width:44rem;margin:0 auto;padding:0 1rem 5rem}
+.eyebrow{font-family:var(--ui);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;
+         color:var(--ink-3);margin:1.6rem 0 .5rem;padding:0 .2rem}
+
+/* ---- kütüphane ---- */
+.libhero{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 1rem;text-align:center}
+.libhero .ar{font-family:var(--amiri);font-size:2.1rem;color:var(--zer);margin:0}
+.libhero .lat{font-family:var(--amiri);font-size:1.35rem;font-weight:700;margin:.2rem 0 0}
+.libhero .sub{font-style:italic;color:var(--ink-2);font-size:.9rem;margin:.3rem 0 0}
+.rule{display:flex;align-items:center;justify-content:center;gap:.6rem;margin:1rem auto 0;
+      max-width:14rem;color:var(--zer)}
+.rule i{flex:1;height:1px;background:currentColor;opacity:.5}
+.rule b{width:6px;height:6px;background:currentColor;transform:rotate(45deg)}
+.shelf{display:flex;flex-direction:column;gap:.7rem}
+.bk{display:grid;grid-template-columns:.42rem 1fr auto;align-items:center;gap:.9rem;
+    padding:.95rem .9rem;border:1px solid var(--line);border-radius:12px;
+    background:var(--sheet);text-align:left;width:100%}
+.bk:hover{border-color:var(--accent)}
+.bk .spine{align-self:stretch;border-radius:3px;background:var(--bkc);min-height:3rem}
+.bk .t b{display:block;font-family:var(--amiri);font-size:1.15rem;font-weight:700;line-height:1.3}
+.bk .t i{display:block;font-size:.8rem;color:var(--ink-3);font-style:italic;margin-top:.15rem}
+.bk .t .n{display:block;font-family:var(--ui);font-size:.68rem;letter-spacing:.1em;
+          text-transform:uppercase;color:var(--ink-3);margin-top:.35rem}
+.bk .a{font-family:var(--amiri);font-size:1.2rem;color:var(--bkc);direction:rtl;
+       white-space:nowrap;opacity:.95}
+
+/* ---- bölüm listesi ---- */
+.list{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:2.1rem 1fr auto;align-items:baseline;gap:.7rem;
+     padding:.85rem .55rem;border-bottom:1px solid var(--line);text-align:left;width:100%}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--paper-2)}
+.row .n{font-family:var(--ui);font-size:.78rem;color:var(--accent);
+        font-variant-numeric:tabular-nums;text-align:right}
+.row .t b{display:block;font-weight:700;font-size:1.02rem;line-height:1.35;text-wrap:balance}
+.row .t i{display:block;font-size:.8rem;color:var(--ink-3);font-style:italic;margin-top:.1rem}
+.row .a{font-family:var(--amiri);font-size:1.15rem;color:var(--accent);
+        direction:rtl;white-space:normal;overflow-wrap:break-word;min-width:0;opacity:.9}
+
+/* ---- okuma ---- */
+.reader{max-width:44rem;margin:0 auto;padding:1.2rem 1rem 6rem}
+.sec-head{text-align:center;padding:.4rem 0 1.5rem;border-bottom:1px solid var(--line);
+          margin-bottom:1.6rem}
+.sec-head .a{font-family:var(--amiri);font-size:1.9rem;color:var(--accent);line-height:1.5;
+             direction:rtl;margin:0 0 .3rem}
+.sec-head .t{font-family:var(--amiri);font-size:1.25rem;font-weight:700;margin:0}
+.sec-head .s{font-size:.82rem;color:var(--ink-3);font-style:italic;margin:.25rem 0 0}
+
+.blk{margin:0 0 1.15rem}
+.blk.gap{margin-bottom:2.1rem;padding-bottom:1.4rem;border-bottom:1px solid var(--line)}
+.arabic{font-family:var(--amiri);direction:rtl;text-align:justify;font-size:var(--ar);
+        line-height:2.05;color:var(--ink);margin:0 0 .85rem}
+.translit{color:var(--lapis);font-weight:700;font-size:var(--lat);line-height:1.65;margin:0 0 .55rem;text-align:justify}
+.turkish{color:var(--verdigris);font-size:var(--lat);line-height:1.7;margin:0;text-align:justify}
+.note{color:var(--accent);font-size:calc(var(--lat)*.95);text-align:center;font-style:italic;
+      line-height:1.6;margin:0 0 .6rem}
+.note-ar{font-family:var(--amiri);direction:rtl;text-align:center;color:var(--accent);
+         font-size:calc(var(--ar)*.78);line-height:1.9;margin:0 0 .6rem}
+.cap{font-family:var(--amiri);font-size:1.1rem;font-weight:700;text-align:center;
+     color:var(--ink);margin:.2rem 0 .5rem}
+.head{font-family:var(--ui);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
+      text-align:center;color:var(--accent);margin:.2rem 0 .7rem}
+
+/* Arapça görsel: alfa maskesi -> rengi temadan alır, gece modunda da doğru */
+.arw{overflow-x:auto;overflow-y:hidden;margin:0 0 .9rem;-webkit-overflow-scrolling:touch;
+     scrollbar-width:thin}
+.arw{cursor:zoom-out}
+.arw[data-fit="1"]{cursor:zoom-in}
+.arm{height:var(--zh);width:calc(var(--zh) * var(--asp));
+     min-width:calc(var(--zh) * var(--asp));background:var(--ink);
+     -webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;
+     -webkit-mask-size:contain;mask-size:contain;
+     -webkit-mask-position:right center;mask-position:right center}
+/* dokununca: satırın tamamı bir bakışta görünsün */
+.arw[data-fit="1"] .arm{width:100%;min-width:0;height:auto;aspect-ratio:var(--asp)}
+.hide{display:none}
+.sec{scroll-margin-top:3.6rem}
+.sec-head{position:relative}
+.favb{position:absolute;right:0;top:0}
+.lockw{max-width:44rem;margin:0 auto;padding:3.5rem 1.25rem 5rem;display:grid;place-items:center}
+.lock{max-width:20rem;width:100%;text-align:center;background:var(--sheet);
+      border:1px solid var(--line);border-radius:14px;padding:1.8rem 1.4rem;box-shadow:var(--shadow)}
+.lock .lk{display:grid;place-items:center;width:3rem;height:3rem;margin:0 auto .8rem;
+          border-radius:50%;background:var(--zer-soft);color:var(--accent)}
+.lock .lk svg{width:1.4rem;height:1.4rem;fill:none;stroke:currentColor;stroke-width:1.7;
+              stroke-linecap:round;stroke-linejoin:round}
+.lock .lt{font-family:var(--amiri);font-size:1.2rem;font-weight:700;margin:0 0 .3rem}
+.lock .lp{font-size:.9rem;color:var(--ink-2);margin:0 0 1.1rem;line-height:1.5}
+#lockf{display:flex;gap:.4rem}
+#pw{flex:1;min-width:0;font:inherit;font-size:1.05rem;letter-spacing:.18em;text-align:center;
+    padding:.6rem .7rem;border-radius:9px;border:1px solid var(--line);
+    background:var(--paper);color:var(--ink)}
+.okbtn{font-family:var(--ui);font-size:.85rem;padding:.6rem 1rem;border-radius:9px;
+       background:var(--accent);color:#fff;font-weight:600}
+.lerr{color:var(--rubric);font-size:.82rem;margin:.7rem 0 0}
+
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:45;
+      background:color-mix(in srgb,var(--paper) 94%,transparent);backdrop-filter:blur(12px);
+      border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.dock-in{max-width:44rem;margin:0 auto;display:flex;align-items:center;gap:.3rem;padding:.45rem .7rem}
+.seg{display:flex;gap:.25rem;flex:1}
+.seg button{font-family:var(--ui);font-size:.72rem;letter-spacing:.04em;padding:.42rem .6rem;
+            border-radius:999px;border:1px solid var(--line);color:var(--ink-3);white-space:nowrap}
+.seg button[aria-pressed="true"]{color:var(--paper);background:var(--ink);border-color:var(--ink)}
+.prog{position:absolute;top:-1px;left:0;height:2px;background:var(--accent);width:0;transition:width .15s linear}
+
+.sheet{position:fixed;inset:auto 0 0 0;z-index:60;background:var(--sheet);
+       border-top:1px solid var(--line);border-radius:16px 16px 0 0;box-shadow:var(--shadow);
+       padding:1rem 1.1rem calc(1.2rem + env(safe-area-inset-bottom));
+       max-width:44rem;margin:0 auto;transform:translateY(101%);transition:transform .22s ease}
+.sheet.open{transform:none}
+.scrim{position:fixed;inset:0;z-index:55;background:#0006;opacity:0;pointer-events:none;transition:opacity .22s}
+.scrim.open{opacity:1;pointer-events:auto}
+.sheet h3{font-family:var(--ui);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;
+          color:var(--ink-3);margin:0 0 .6rem;font-weight:600}
+.opt{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.6rem 0;
+     border-bottom:1px solid var(--line)}
+.opt:last-of-type{border-bottom:0}
+.opt span{font-size:.95rem}
+.stepper{display:flex;align-items:center;gap:.15rem;border:1px solid var(--line);border-radius:999px}
+.stepper button{width:2.1rem;height:2rem;display:grid;place-items:center;color:var(--ink-2);font-size:1.05rem}
+.stepper b{font-family:var(--ui);font-size:.78rem;min-width:2.6rem;text-align:center;
+           color:var(--ink-3);font-variant-numeric:tabular-nums}
+.pills{display:flex;gap:.35rem;flex-wrap:wrap}
+.pills button{font-family:var(--ui);font-size:.75rem;padding:.4rem .7rem;border-radius:999px;
+              border:1px solid var(--line);color:var(--ink-2)}
+.pills button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+.search-box{padding:.7rem 1rem;max-width:44rem;margin:0 auto}
+.search-box input{width:100%;font:inherit;font-size:1rem;padding:.7rem .9rem;border-radius:10px;
+                  border:1px solid var(--line);background:var(--sheet);color:var(--ink)}
+.hit{display:block;width:100%;text-align:left;padding:.8rem .6rem;border-bottom:1px solid var(--line)}
+.hit:hover{background:var(--paper-2)}
+.hit b{display:block;font-size:.98rem}
+.hit em{font-family:var(--ui);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;
+        color:var(--hc);font-style:normal;display:block;margin-bottom:.15rem}
+.hit i{display:block;font-size:.8rem;color:var(--ink-3);font-style:normal;margin-top:.2rem;
+       overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.empty{text-align:center;color:var(--ink-3);padding:3rem 1rem;font-style:italic}
+.foot{max-width:44rem;margin:0 auto;padding:2.5rem 1.25rem 1.5rem;text-align:center;
+      color:var(--ink-3);font-size:.76rem;line-height:1.7}
+</style>
+
+<div id="app"></div>
+
+<script id="kitap" type="application/json">__DATA__</script>
+<script>
+(function(){
+"use strict";
+const DATA = JSON.parse(document.getElementById('kitap').textContent);
+const BOOKS = DATA.books;
+const app = document.getElementById('app');
+const LS = 'evrad.v1';
+const save = s => { try{ localStorage.setItem(LS, JSON.stringify(s)); }catch(e){} };
+let S = { ar:true, tl:true, tr:true, arSize:2.0, latSize:1.0, arLine:1.75,
+          theme:'auto', fav:[], last:null, awake:false };
+try{ Object.assign(S, JSON.parse(localStorage.getItem(LS)||'{}')); }catch(e){}
+
+let view = {name:'lib', b:0, s:0, q:''};
+// Kilitli kitap. NOT: içerik yine sayfanın içindedir; bu kilit meraklı
+// gözlere karşıdır, teknik bir şifreleme DEĞİLDİR.
+const LOCKED = {'kalb':'102030'};
+const unlocked = k => { try{ return sessionStorage.getItem('unlock.'+k)==='1'; }catch(e){ return false; } };
+const doUnlock = k => { try{ sessionStorage.setItem('unlock.'+k,'1'); }catch(e){} };
+const isLocked = bi => !!LOCKED[BOOKS[bi].id] && !unlocked(BOOKS[bi].id);
+let wakeLock = null;
+// "Cihaz" (auto) seçiliyken ekranda GERÇEKTE hangi görünüm uygulanıyor -
+// üst çubuktaki güneş/ay hızlı geçiş ikonunun hangi simgeyi göstereceğini
+// ve tıklanınca hangi yöne geçeceğini bu belirler.
+const effectiveDark = () => S.theme==='dark' ||
+  (S.theme==='auto' && matchMedia('(prefers-color-scheme:dark)').matches);
+
+const ICON = {
+  back:'<path d="M15 18l-6-6 6-6"/>',
+  search:'<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>',
+  aa:'<path d="M4 19l5-14 5 14M6 14h6"/><path d="M16 19l3-8 3 8M17.2 16.2h3.6"/>',
+  star:'<path d="M12 3.5l2.6 5.3 5.9.9-4.2 4.1 1 5.8-5.3-2.8-5.3 2.8 1-5.8L3.5 9.7l5.9-.9z"/>',
+  eye:'<path d="M2 12s3.6-6.5 10-6.5S22 12 22 12s-3.6 6.5-10 6.5S2 12 2 12z"/><circle cx="12" cy="12" r="2.6"/>',
+  close:'<path d="M6 6l12 12M18 6L6 18"/>',
+  lock:'<rect x="4.5" y="10.5" width="15" height="10" rx="2"/><path d="M8 10.5V7.5a4 4 0 0 1 8 0v3"/><circle cx="12" cy="15.5" r="1.3"/>',
+  sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>',
+  moon:'<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>'
+};
+const svg = (k,f) => '<svg viewBox="0 0 24 24"'+(f?' fill="currentColor" stroke="none"':'')+'>'+ICON[k]+'</svg>';
+const themeBtnHtml = () => {
+  const dark = effectiveDark();
+  return `<button class="ic" data-themetoggle="1"
+    aria-label="${dark?'Gündüz görünümüne geç':'Gece görünümüne geç'}">${svg(dark?'sun':'moon')}</button>`;
+};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const normTr = s => s.replace(/I/g,'ı').replace(/İ/g,'i').toLowerCase()
+                     .replace(/[ً-ٰٟۖ-ۭ]/g,'').replace(/\s+/g,' ').trim();
+const favKey = (b,s) => b+':'+s;
+
+/* ---------------- kütüphane ---------------- */
+function lib(){
+  const cont = S.last ? BOOKS[S.last[0]] : null;
+  const favs = S.fav.map(k => k.split(':').map(Number))
+                    .filter(([b,s]) => BOOKS[b] && BOOKS[b].sections[s]);
+  return `
+  <div class="bar"><div class="bar-in">
+    <h1>Evrâd Kitaplığı</h1>
+    <button class="ic" data-go="search" aria-label="Ara">${svg('search')}</button>
+    ${themeBtnHtml()}
+    <button class="ic" data-sheet="1" aria-label="Ayarlar">${svg('aa')}</button>
+  </div></div>
+  <header class="libhero">
+    <p class="ar">اَلأَْوْرَادُ وَالأَْذْكَار</p>
+    <p class="lat">Evrâd ve Ezkâr Kütüphanesi</p>
+    <div class="rule"><i></i><b></b><i></i></div>
+  </header>
+  <div class="wrap">
+    ${cont ? `<p class="eyebrow">Kaldığınız yer</p><div class="list">
+       ${rowHtml(S.last[0], S.last[1], true)}</div>` : ''}
+    ${favs.length ? `<p class="eyebrow">Seçtikleriniz</p><div class="list">
+       ${favs.map(([b,s]) => rowHtml(b,s,true)).join('')}</div>` : ''}
+    <p class="eyebrow">Kitaplar</p>
+    <div class="shelf">${BOOKS.map(bkHtml).join('')}</div>
+  </div>
+  <p class="foot">Metinlerde asıllarına birebir sadık kalınmıştır.<br>
+     Yanlışlık görülmesi durumunda, düzeltilmesi için 0534 370 5858 nolu hat kullanıcısına bildiriniz. Rabbim rızasından ayırmasın.</p>`;
+}
+function bkHtml(b,i){
+  const n = b.sections.length;
+  return `<button class="bk" style="--bkc:${b.accent}" data-book="${i}">
+    <span class="spine"></span>
+    <span class="t"><b>${esc(b.title)}</b><i>${esc(b.sub)}</i>
+      <span class="n">${n>1 ? n+' bölüm' : 'tek bölüm'}</span></span>
+    <span class="a">${esc(b.titleAr)}</span>
+  </button>`;
+}
+function rowHtml(bi, si, showBook){
+  const b = BOOKS[bi], s = b.sections[si];
+  return `<button class="row" data-open="${bi}.${si}" style="--accent:${b.accent}">
+    <span class="n">${si+1}</span>
+    <span class="t"><b>${esc(s.title)}</b>
+      <i>${esc(showBook ? b.title + (s.sub? ' · '+s.sub : '') : s.sub)}</i></span>
+    <span class="a">${esc(s.titleAr||'')}</span>
+  </button>`;
+}
+
+/* ------------- kitap: fihrist + hemen ardından içerik ------------- */
+function lockScreen(bi){
+  const b = BOOKS[bi];
+  return `
+  <div class="bar"><div class="bar-in">
+    <button class="ic" data-go="lib" aria-label="Geri">${svg('back')}</button>
+    <h1>${esc(b.title)}</h1></div></div>
+  <div class="lockw"><div class="lock">
+    <span class="lk">${svg('lock')}</span>
+    <p class="lt">${esc(b.title)}</p>
+    <p class="lp">Bu içeriği okuyabilmek için lütfen şifre giriniz.</p>
+    <form id="lockf" autocomplete="off">
+      <input id="pw" type="password" inputmode="numeric" placeholder="Şifre"
+             aria-label="Şifre" autocomplete="off" autocorrect="off">
+      <button type="submit" class="okbtn">Aç</button>
+    </form>
+    <p class="lerr" id="pwerr" hidden>Şifre hatalı, tekrar deneyiniz.</p>
+  </div></div>`;
+}
+
+function blockHtml(x, nx){
+  const gap = !nx || (x.k==='turkish' && nx.k!=='turkish');
+  const cls = 'blk'+(gap?' gap':'');
+  if(x.k==='arimg'){
+    // Boyut = SATIR SAYISI x sabit satır yüksekliği: tek satırlık şerit de,
+    // çok satırlı blok da, hangi kitapta olursa olsun aynı harf büyüklüğünde.
+    const hpx = 'calc(var(--arline) * '+(x.nl||1)+')';
+    return `<div class="${cls} L-ar"><div class="arw" data-fit="0" tabindex="0"
+      role="button" aria-label="Arapça: genişliğe sığdır / gerçek boyut"
+      style="--asp:${(x.w/x.h).toFixed(4)};--zh:${hpx}"
+      ><div class="arm" style="-webkit-mask-image:url(data:image/png;base64,${x.img});mask-image:url(data:image/png;base64,${x.img})"></div></div></div>`;
+  }
+  if(x.k==='arabic')   return `<div class="${cls} L-ar"><p class="arabic">${esc(x.t)}</p></div>`;
+  if(x.k==='translit') return `<div class="${cls} L-tl"><p class="translit">${esc(x.t)}</p></div>`;
+  if(x.k==='turkish')  return `<div class="${cls} L-tr"><p class="turkish">${esc(x.t)}</p></div>`;
+  if(x.k==='title_ar') return `<div class="blk"><p class="note-ar">${esc(x.t)}</p></div>`;
+  if(x.k==='cap')      return `<div class="blk"><p class="cap">${esc(x.t)}</p></div>`;
+  if(x.k==='head')     return `<div class="blk"><p class="head">${esc(x.t)}</p></div>`;
+  return `<div class="blk"><p class="note">${esc(x.t)}</p></div>`;
+}
+
+function book(bi){
+  if(isLocked(bi)) return lockScreen(bi);
+  const b = BOOKS[bi];
+  const many = b.sections.length > 1;
+  const index = many ? `
+    <p class="eyebrow">Fihrist · ${b.sections.length} bölüm</p>
+    <div class="list">${b.sections.map((s,i)=>`
+      <button class="row" data-jump="${i}">
+        <span class="n">${i+1}</span>
+        <span class="t"><b>${esc(s.title)}</b>${s.sub?`<i>${esc(s.sub)}</i>`:''}</span>
+        <span class="a">${esc(s.titleAr||'')}</span>
+      </button>`).join('')}</div>` : '';
+  const body = b.sections.map((s,i)=>{
+    const fav = S.fav.includes(favKey(bi,i));
+    return `<section id="sec${i}" class="sec">
+      <div class="sec-head">
+        ${s.titleAr?`<p class="a">${esc(s.titleAr)}</p>`:''}
+        <p class="t">${many?(i+1)+'. ':''}${esc(s.title)}</p>
+        ${s.sub?`<p class="s">${esc(s.sub)}</p>`:''}
+        <button class="ic favb ${fav?'on':''}" data-fav="${bi}.${i}"
+                aria-label="Seçtiklerime ekle">${svg('star',fav)}</button>
+      </div>
+      ${s.blocks.map((x,j)=>blockHtml(x, s.blocks[j+1])).join('')}
+    </section>`;
+  }).join('');
+  const hasLayer = k => b.sections.some(s=>s.blocks.some(x=>x.k===k || (k==='arabic'&&x.k==='arimg')));
+  const layers = [
+    hasLayer('arabic')   && {k:'ar', label:'Arapça'},
+    hasLayer('translit') && {k:'tl', label:'Okunuş'},
+    hasLayer('turkish')  && {k:'tr', label:'Meâl'},
+  ].filter(Boolean);
+  return `
+  <div class="bar"><div class="bar-in">
+    <button class="ic" data-go="lib" aria-label="Geri">${svg('back')}</button>
+    <h1>${esc(b.title)}</h1>
+    <button class="ic" data-go="search" aria-label="Ara">${svg('search')}</button>
+    ${themeBtnHtml()}
+    <button class="ic" data-sheet="1" aria-label="Ayarlar">${svg('aa')}</button>
+  </div></div>
+  <header class="libhero">
+    ${b.titleAr?`<p class="ar" style="color:${b.accent}">${esc(b.titleAr)}</p>`:''}
+    ${b.heroSub!==false?`<p class="lat">${esc(b.title)}</p><p class="sub">${esc(b.sub)}</p>`:''}
+    ${b.by?`<p class="foot" style="padding:.6rem 0 0">${esc(b.byLabel||'Cem eden')}<br>${esc(b.by)}</p>`:''}
+    <div class="rule"><i></i><b></b><i></i></div>
+  </header>
+  ${index?`<div class="wrap">${index}</div>`:''}
+  <div class="reader">${body}</div>
+  <div class="dock"><div class="prog" id="prog"></div><div class="dock-in">
+    <div class="seg">
+      ${layers.map(l=>`<button data-layer="${l.k}" aria-pressed="${S[l.k]}">${l.label}</button>`).join('')}
+    </div>
+    <button class="ic ${S.awake?'on':''}" data-awake="1" aria-label="Ekran açık kalsın">${svg('eye')}</button>
+  </div></div>`;
+}
+
+/* ---------------- arama ---------------- */
+function search(q){
+  const nq = normTr(q||'');
+  const hits = [];
+  if(nq.length>1){
+    BOOKS.forEach((b,bi)=>b.sections.forEach((s,si)=>{
+      if(!s.search || !s.search.includes(nq)) return;
+      let snip='';
+      for(const x of s.blocks){
+        const t = x.t; if(!t) continue;
+        const i = normTr(t).indexOf(nq);
+        if(i>=0){ snip = t.slice(Math.max(0,i-40), i+90); break; }
+      }
+      hits.push({bi,si,b,s,snip});
+    }));
+  }
+  return `
+  <div class="bar"><div class="bar-in">
+    <button class="ic" data-go="back" aria-label="Geri">${svg('back')}</button>
+    <h1>Ara</h1></div>
+  <div class="search-box">
+    <input id="q" type="search" placeholder="Kitaplığın tamamında ara…"
+           value="${esc(q||'')}" autocomplete="off" enterkeyhint="search"></div></div>
+  <div class="wrap">
+    ${nq.length<=1 ? `<p class="empty">En az iki harf yazınız.</p>`
+      : hits.length ? `<p class="eyebrow">${hits.length} sonuç</p>`+hits.map(h=>
+          `<button class="hit" data-open="${h.bi}.${h.si}" style="--hc:${h.b.accent}">
+             <em>${esc(h.b.title)}</em><b>${esc(h.s.title)}</b>
+             ${h.snip?`<i>${esc(h.snip)}…</i>`:''}</button>`).join('')
+      : `<p class="empty">Sonuç bulunamadı.</p>`}
+  </div>`;
+}
+
+function sheetHtml(){
+  return `<div class="scrim" data-close="1"></div>
+  <div class="sheet" id="sheet">
+    <h3>Yazı boyutu</h3>
+    <div class="opt"><span>Arapça (metin)</span>
+      <div class="stepper"><button data-size="ar,-1">−</button><b id="arv"></b><button data-size="ar,1">+</button></div></div>
+    <div class="opt"><span>Arapça (görsel)</span>
+      <div class="stepper"><button data-size="arh,-1">−</button><b id="arhv"></b><button data-size="arh,1">+</button></div></div>
+    <div class="opt"><span>Okunuş ve meâl</span>
+      <div class="stepper"><button data-size="lat,-1">−</button><b id="latv"></b><button data-size="lat,1">+</button></div></div>
+    <h3 style="margin-top:1.1rem">Görünüm</h3>
+    <div class="pills" id="themep">
+      <button data-theme="light">Gündüz</button>
+      <button data-theme="dark">Gece</button>
+      <button data-theme="auto">Cihaz</button></div>
+    <div class="opt" style="margin-top:1rem"><span>Kapat</span>
+      <button class="ic" data-close="1" aria-label="Kapat">${svg('close')}</button></div>
+  </div>`;
+}
+
+/* ---------------- çizim ---------------- */
+function paint(scroll){
+  let html;
+  if(view.name==='lib') html = lib();
+  else if(view.name==='book') html = book(view.b);
+  else html = search(view.q);
+  app.innerHTML = html + sheetHtml();
+  const acc = (view.name==='book') ? BOOKS[view.b].accent : '#B08A34';
+  document.documentElement.style.setProperty('--accent', acc);
+  applyVars(); syncTheme();
+  if(view.name==='search'){
+    const i=document.getElementById('q');
+    if(i){ i.focus(); i.setSelectionRange(i.value.length,i.value.length); }
+  }
+  if(view.name==='book' && view.s>0){
+    const el = document.getElementById('sec'+view.s);
+    if(el){ el.scrollIntoView(); view.s = 0; return; }
+  }
+  if(scroll!==false) window.scrollTo(0,0);
+  const pw = document.getElementById('pw');
+  if(pw) setTimeout(()=>pw.focus(), 80);
+}
+function applyVars(){
+  const r=document.documentElement.style;
+  r.setProperty('--ar', S.arSize.toFixed(2)+'rem');
+  r.setProperty('--lat', S.latSize.toFixed(2)+'rem');
+  r.setProperty('--arline', S.arLine.toFixed(3)+'rem');
+  const set=(id,v)=>{const e=document.getElementById(id); if(e) e.textContent=v;};
+  set('arv', Math.round(S.arSize/2.0*100)+'%');
+  set('latv', Math.round(S.latSize/1.0*100)+'%');
+  set('arhv', Math.round(S.arLine/1.75*100)+'%');
+  document.querySelectorAll('.L-ar').forEach(e=>e.classList.toggle('hide',!S.ar));
+  document.querySelectorAll('.L-tl').forEach(e=>e.classList.toggle('hide',!S.tl));
+  document.querySelectorAll('.L-tr').forEach(e=>e.classList.toggle('hide',!S.tr));
+}
+function syncTheme(){
+  const el=document.documentElement;
+  if(S.theme==='auto') el.removeAttribute('data-theme');
+  else el.setAttribute('data-theme',S.theme);
+  document.querySelectorAll('#themep button').forEach(b=>
+    b.setAttribute('aria-pressed', String(b.dataset.theme===S.theme)));
+  const dark = effectiveDark();
+  document.querySelectorAll('[data-themetoggle]').forEach(b=>{
+    b.innerHTML = svg(dark?'sun':'moon');
+    b.setAttribute('aria-label', dark?'Gündüz görünümüne geç':'Gece görünümüne geç');
+  });
+}
+function openSheet(o){
+  document.getElementById('sheet').classList.toggle('open',o);
+  document.querySelector('.scrim').classList.toggle('open',o);
+}
+async function toggleAwake(){
+  S.awake=!S.awake; save(S);
+  try{
+    if(S.awake && 'wakeLock' in navigator) wakeLock = await navigator.wakeLock.request('screen');
+    else if(wakeLock){ await wakeLock.release(); wakeLock=null; }
+  }catch(e){ S.awake=false; }
+  const b=document.querySelector('[data-awake]'); if(b) b.classList.toggle('on',S.awake);
+}
+
+document.addEventListener('click', e=>{
+  const z=e.target.closest('.arw');
+  if(z){ z.dataset.fit = z.dataset.fit==='1' ? '0' : '1'; return; }
+  const t=e.target.closest('[data-book],[data-jump],[data-open],[data-go],[data-fav],[data-sheet],[data-close],[data-size],[data-theme],[data-themetoggle],[data-layer],[data-awake]');
+  if(!t) return;
+  const d=t.dataset;
+  if(d.book!==undefined){
+    const bi=+d.book;
+    view={name:'book',b:bi,s:0,q:''};
+    if(!isLocked(bi)){ S.last=[bi,0]; save(S); }
+    paint();
+  }
+  else if(d.jump!==undefined){
+    const el=document.getElementById('sec'+d.jump);
+    if(el) el.scrollIntoView({behavior:'smooth',block:'start'});
+    S.last=[view.b,+d.jump]; save(S);
+  }
+  else if(d.open!==undefined){
+    const [bi,si]=d.open.split('.').map(Number);
+    view={name:'book',b:bi,s:si,q:''};
+    if(!isLocked(bi)){ S.last=[bi,si]; save(S); }
+    paint();
+  }
+  else if(d.go==='lib'){ view={name:'lib',b:0,s:0,q:''}; paint(); }
+  else if(d.go==='search'){ view={name:'search',b:view.b,s:view.s,q:''}; paint(); }
+  else if(d.go==='back'){ view={name:'lib',b:0,s:0,q:''}; paint(); }
+  else if(d.fav!==undefined){
+    const k=favKey(...d.fav.split('.').map(Number));
+    const i=S.fav.indexOf(k);
+    if(i<0) S.fav.push(k); else S.fav.splice(i,1);
+    save(S); t.classList.toggle('on',i<0); t.innerHTML=svg('star',i<0);
+  }
+  else if(d.sheet) openSheet(true);
+  else if(d.close) openSheet(false);
+  else if(d.size){
+    const [k,dir]=d.size.split(','); const n=+dir;
+    if(k==='ar') S.arSize=Math.min(3.4,Math.max(1.3,S.arSize+n*0.15));
+    else if(k==='arh') S.arLine=Math.min(4.0,Math.max(0.9,S.arLine+n*0.15));
+    else S.latSize=Math.min(1.7,Math.max(0.8,S.latSize+n*0.06));
+    save(S); applyVars();
+  }
+  else if(d.theme){ S.theme=d.theme; save(S); syncTheme(); }
+  else if(d.themetoggle){
+    // Üst çubuktaki hızlı geçiş: o an ekranda GÖRÜNEN durumun tersine
+    // (Cihaz/otomatikten gelmiş olsa bile) doğrudan Gündüz/Gece'ye sabitler.
+    S.theme = effectiveDark() ? 'light' : 'dark';
+    save(S); syncTheme();
+  }
+  else if(d.layer){
+    const k=d.layer;
+    // Yalnızca bu kitapta GERÇEKTEN gösterilen katmanlar (dock'ta butonu
+    // olanlar) arasında say - aksi halde tek katmanlı bir kitapta (ör.
+    // yalnızca 'Meâl') o tek buton kapatılınca içerik tamamen kaybolurdu.
+    const shown = [...document.querySelectorAll('[data-layer]')].map(e=>e.dataset.layer);
+    if(S[k] && shown.filter(x=>S[x]).length===1) return;
+    // Bir katman gizlenince/gösterilince görünümdeki BLOKLARIN toplam
+    // yüksekliği değişir - üstteki bölümlerde de bloklar kaybolduğu için
+    // tarayıcı aynı scrollY değerinde kalıp sayfayı geriye/ileriye kaydırmış
+    // gibi görünürdü ("birkaç bölüm geri gitme" hissi). Çözüm: değişiklikten
+    // ÖNCE görünümde kalacak (kapatılan katmana ait OLMAYAN) bir referans
+    // blok bulup ekrandaki konumunu kaydet, değişiklikten SONRA aynı bloğu
+    // aynı ekran konumuna geri getir.
+    const turningOff = S[k];
+    const skipCls = {ar:'L-ar', tl:'L-tl', tr:'L-tr'}[k];
+    let anchor=null, anchorTop=null;
+    for(const el of document.querySelectorAll('.blk,.sec-head')){
+      if(turningOff && el.classList.contains(skipCls)) continue;
+      const r=el.getBoundingClientRect();
+      if(r.bottom>0 && r.top<innerHeight){ anchor=el; anchorTop=r.top; break; }
+    }
+    S[k]=!S[k]; save(S); t.setAttribute('aria-pressed',String(S[k])); applyVars();
+    if(anchor){
+      const newTop=anchor.getBoundingClientRect().top;
+      if(newTop!==anchorTop) window.scrollBy(0, newTop-anchorTop);
+    }
+  }
+  else if(d.awake) toggleAwake();
+});
+document.addEventListener('submit', e=>{
+  if(e.target.id!=='lockf') return;
+  e.preventDefault();
+  const key = BOOKS[view.b].id;
+  const val = (document.getElementById('pw')||{}).value || '';
+  if(val.trim() === LOCKED[key]){ doUnlock(key); paint(); }
+  else{
+    const er=document.getElementById('pwerr'); if(er) er.hidden=false;
+    const i=document.getElementById('pw'); if(i){ i.value=''; i.focus(); }
+  }
+});
+document.addEventListener('input', e=>{
+  if(e.target.id==='q'){
+    view.q=e.target.value;
+    const sel=e.target.selectionStart;
+    paint(false);
+    const i=document.getElementById('q'); if(i){ i.focus(); i.setSelectionRange(sel,sel); }
+  }
+});
+window.addEventListener('scroll', ()=>{
+  const p=document.getElementById('prog'); if(!p) return;
+  const h=document.body.scrollHeight-innerHeight;
+  p.style.width=(h>0?Math.min(100,scrollY/h*100):0)+'%';
+},{passive:true});
+document.addEventListener('visibilitychange', async()=>{
+  if(document.visibilityState==='visible' && S.awake && 'wakeLock' in navigator){
+    try{ wakeLock=await navigator.wakeLock.request('screen'); }catch(e){}
+  }
+});
+paint();
+})();
+</script>
